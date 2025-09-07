@@ -1,0 +1,830 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{blei2012probabilistic}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=108998f0d44d4dce8ccb93e4d78cd5c6}{%
+           family={Blei},
+           familyi={B\bibinitperiod},
+           given={David\bibnamedelima M},
+           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {ACM New York, NY, USA}%
+      }
+      \strng{namehash}{108998f0d44d4dce8ccb93e4d78cd5c6}
+      \strng{fullhash}{108998f0d44d4dce8ccb93e4d78cd5c6}
+      \strng{bibnamehash}{108998f0d44d4dce8ccb93e4d78cd5c6}
+      \strng{authorbibnamehash}{108998f0d44d4dce8ccb93e4d78cd5c6}
+      \strng{authornamehash}{108998f0d44d4dce8ccb93e4d78cd5c6}
+      \strng{authorfullhash}{108998f0d44d4dce8ccb93e4d78cd5c6}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Communications of the ACM}
+      \field{number}{4}
+      \field{title}{Probabilistic topic models}
+      \field{volume}{55}
+      \field{year}{2012}
+      \field{pages}{77\bibrangedash 84}
+      \range{pages}{8}
+    \endentry
+    \entry{blei2003latent}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=108998f0d44d4dce8ccb93e4d78cd5c6}{%
+           family={Blei},
+           familyi={B\bibinitperiod},
+           given={David\bibnamedelima M},
+           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=49e889356ff39df159461bc2895c7e16}{%
+           family={Ng},
+           familyi={N\bibinitperiod},
+           given={Andrew\bibnamedelima Y},
+           giveni={A\bibinitperiod\bibinitdelim Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8a36116840c7ee55901618c95fd08a58}{%
+           family={Jordan},
+           familyi={J\bibinitperiod},
+           given={Michael\bibnamedelima I},
+           giveni={M\bibinitperiod\bibinitdelim I\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ee51b7141ddf1c81ca1f40c31a7ae6be}
+      \strng{fullhash}{ee51b7141ddf1c81ca1f40c31a7ae6be}
+      \strng{bibnamehash}{ee51b7141ddf1c81ca1f40c31a7ae6be}
+      \strng{authorbibnamehash}{ee51b7141ddf1c81ca1f40c31a7ae6be}
+      \strng{authornamehash}{ee51b7141ddf1c81ca1f40c31a7ae6be}
+      \strng{authorfullhash}{ee51b7141ddf1c81ca1f40c31a7ae6be}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of machine Learning research}
+      \field{number}{Jan}
+      \field{title}{Latent dirichlet allocation}
+      \field{volume}{3}
+      \field{year}{2003}
+      \field{pages}{993\bibrangedash 1022}
+      \range{pages}{30}
+    \endentry
+    \entry{chapman2000crisp}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=6e42f1026173c2e52fdda7fdd636f359}{%
+           family={Chapman},
+           familyi={C\bibinitperiod},
+           given={Pete},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f37a206983a831906b78d21c7d52eaad}{%
+           family={Clinton},
+           familyi={C\bibinitperiod},
+           given={Julian},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7c25b09dcdc549eef103243260ef9097}{%
+           family={Kerber},
+           familyi={K\bibinitperiod},
+           given={Randy},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ad3964a47e85a21d4e37e96bdc189722}{%
+           family={Khabaza},
+           familyi={K\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0837e07a12ac06f6572ab8dbb4dbdc8b}{%
+           family={Reinartz},
+           familyi={R\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3a4e3f5f408e7cfa7e86f42b4a99fe8b}{%
+           family={Shearer},
+           familyi={S\bibinitperiod},
+           given={Colin},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=32876e1568855671d232e97802c0786e}{%
+           family={Wirth},
+           familyi={W\bibinitperiod},
+           given={Rudiger},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e4568ace118615d389c03c0583880045}
+      \strng{fullhash}{de2064c868a357a100ab3191c7cfe38e}
+      \strng{bibnamehash}{e4568ace118615d389c03c0583880045}
+      \strng{authorbibnamehash}{e4568ace118615d389c03c0583880045}
+      \strng{authornamehash}{e4568ace118615d389c03c0583880045}
+      \strng{authorfullhash}{de2064c868a357a100ab3191c7cfe38e}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{SPSS inc}
+      \field{number}{13}
+      \field{title}{CRISP-DM 1.0: Step-by-step data mining guide}
+      \field{volume}{9}
+      \field{year}{2000}
+      \field{pages}{1\bibrangedash 73}
+      \range{pages}{73}
+    \endentry
+    \entry{Crompton_Burke_2023}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=7434f95508d08e72c225cc8dcc36e4bc}{%
+           family={Crompton},
+           familyi={C\bibinitperiod},
+           given={Helen},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a69c827c6779db40f4b14bf0cca7a757}{%
+           family={Burke},
+           familyi={B\bibinitperiod},
+           given={Diane},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{991a6b42eaa6ae3e3777d91bc562b898}
+      \strng{fullhash}{991a6b42eaa6ae3e3777d91bc562b898}
+      \strng{bibnamehash}{991a6b42eaa6ae3e3777d91bc562b898}
+      \strng{authorbibnamehash}{991a6b42eaa6ae3e3777d91bc562b898}
+      \strng{authornamehash}{991a6b42eaa6ae3e3777d91bc562b898}
+      \strng{authorfullhash}{991a6b42eaa6ae3e3777d91bc562b898}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Educational Technology in Higher Education}
+      \field{month}{4}
+      \field{number}{1}
+      \field{title}{Artificial Intelligence in higher education: The state of the field}
+      \field{volume}{20}
+      \field{year}{2023}
+      \verb{doi}
+      \verb 10.1186/s41239-023-00392-8
+      \endverb
+    \endentry
+    \entry{apify_website}{online}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=d872ddae5fbc62f77bdbe99318107fc9}{%
+           family={Curn},
+           familyi={C\bibinitperiod},
+           given={Jan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7e44794d71e10146788cab3c5230aabe}{%
+           family={Balada},
+           familyi={B\bibinitperiod},
+           given={Jakub},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e1393cc39bb260ac3d16686765b8ac4d}
+      \strng{fullhash}{e1393cc39bb260ac3d16686765b8ac4d}
+      \strng{bibnamehash}{e1393cc39bb260ac3d16686765b8ac4d}
+      \strng{authorbibnamehash}{e1393cc39bb260ac3d16686765b8ac4d}
+      \strng{authornamehash}{e1393cc39bb260ac3d16686765b8ac4d}
+      \strng{authorfullhash}{e1393cc39bb260ac3d16686765b8ac4d}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Acesso em 9 de abril de 2024}
+      \field{title}{Apify}
+      \field{year}{2015}
+      \verb{urlraw}
+      \verb https://apify.com/about
+      \endverb
+      \verb{url}
+      \verb https://apify.com/about
+      \endverb
+    \endentry
+    \entry{fukuyama2018extracting}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=7f35c16e9676ad478139e83038f02556}{%
+           family={Fukuyama},
+           familyi={F\bibinitperiod},
+           given={Satoshi},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5fbff82300ee64418dffbfc190025216}{%
+           family={Wakabayashi},
+           familyi={W\bibinitperiod},
+           given={Kei},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ff96f5c5174dc7782a020f1722b0fedc}
+      \strng{fullhash}{ff96f5c5174dc7782a020f1722b0fedc}
+      \strng{bibnamehash}{ff96f5c5174dc7782a020f1722b0fedc}
+      \strng{authorbibnamehash}{ff96f5c5174dc7782a020f1722b0fedc}
+      \strng{authornamehash}{ff96f5c5174dc7782a020f1722b0fedc}
+      \strng{authorfullhash}{ff96f5c5174dc7782a020f1722b0fedc}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 20th International Conference on Information Integration and Web-based Applications \& Services}
+      \field{title}{Extracting time series variation of topic popularity in microblogs}
+      \field{year}{2018}
+      \field{pages}{365\bibrangedash 369}
+      \range{pages}{5}
+    \endentry
+    \entry{han2022data}{book}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=7cacfe272c4d395c979d6aecd2f5ec9c}{%
+           family={Han},
+           familyi={H\bibinitperiod},
+           given={Jiawei},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=56af930e1f5e2c9a791b71e7b347c0ba}{%
+           family={Pei},
+           familyi={P\bibinitperiod},
+           given={Jian},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=accfc7f5c581f746112f5fd641490dda}{%
+           family={Tong},
+           familyi={T\bibinitperiod},
+           given={Hanghang},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Morgan kaufmann}%
+      }
+      \strng{namehash}{04b214a9d6966be1d9d97c2da2bbc9e5}
+      \strng{fullhash}{04b214a9d6966be1d9d97c2da2bbc9e5}
+      \strng{bibnamehash}{04b214a9d6966be1d9d97c2da2bbc9e5}
+      \strng{authorbibnamehash}{04b214a9d6966be1d9d97c2da2bbc9e5}
+      \strng{authornamehash}{04b214a9d6966be1d9d97c2da2bbc9e5}
+      \strng{authorfullhash}{04b214a9d6966be1d9d97c2da2bbc9e5}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Data mining: concepts and techniques}
+      \field{year}{2022}
+    \endentry
+    \entry{hofmann1999probabilistic}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ee42cfed2ff3020233d2de97c356eaee}{%
+           family={Hofmann},
+           familyi={H\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ee42cfed2ff3020233d2de97c356eaee}
+      \strng{fullhash}{ee42cfed2ff3020233d2de97c356eaee}
+      \strng{bibnamehash}{ee42cfed2ff3020233d2de97c356eaee}
+      \strng{authorbibnamehash}{ee42cfed2ff3020233d2de97c356eaee}
+      \strng{authornamehash}{ee42cfed2ff3020233d2de97c356eaee}
+      \strng{authorfullhash}{ee42cfed2ff3020233d2de97c356eaee}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 22nd annual international ACM SIGIR conference on Research and development in information retrieval}
+      \field{title}{Probabilistic latent semantic indexing}
+      \field{year}{1999}
+      \field{pages}{50\bibrangedash 57}
+      \range{pages}{8}
+    \endentry
+    \entry{kerlinger2009metodologia}{incollection}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9f7856b443d60936175ff71d84be855a}{%
+           family={Kerlinger},
+           familyi={K\bibinitperiod},
+           given={Fred\bibnamedelima N},
+           giveni={F\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9f7856b443d60936175ff71d84be855a}
+      \strng{fullhash}{9f7856b443d60936175ff71d84be855a}
+      \strng{bibnamehash}{9f7856b443d60936175ff71d84be855a}
+      \strng{authorbibnamehash}{9f7856b443d60936175ff71d84be855a}
+      \strng{authornamehash}{9f7856b443d60936175ff71d84be855a}
+      \strng{authorfullhash}{9f7856b443d60936175ff71d84be855a}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Metodologia da pesquisa em ciências sociais: um tratamento conceitual}
+      \field{title}{Metodologia da pesquisa em ciências sociais: um tratamento conceitual}
+      \field{year}{2009}
+      \field{pages}{xv\bibrangedash 378}
+      \range{pages}{364}
+    \endentry
+    \entry{lee2011twitter}{inproceedings}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=8ef4f3a08dcbbdd1ecaa96b439346954}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Kathy},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=36b4bfc0b6db3e44271b112317ebf6bb}{%
+           family={Palsetia},
+           familyi={P\bibinitperiod},
+           given={Diana},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d1567a8218b42f40d244a2c6a313a0bf}{%
+           family={Narayanan},
+           familyi={N\bibinitperiod},
+           given={Ramanathan},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=76e30f39b4a7db9384b835bae7095f2c}{%
+           family={Patwary},
+           familyi={P\bibinitperiod},
+           given={Md\bibnamedelima Mostofa\bibnamedelima Ali},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=95e759d1bfa384ef5adce6f4c3715a27}{%
+           family={Agrawal},
+           familyi={A\bibinitperiod},
+           given={Ankit},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=36bf959c7a5031b6587c488089b7ace4}{%
+           family={Choudhary},
+           familyi={C\bibinitperiod},
+           given={Alok},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{ce8850b81f043fb222ae95bb34672534}
+      \strng{fullhash}{d50e6e6ab46e06b65e886822c34c89f0}
+      \strng{bibnamehash}{ce8850b81f043fb222ae95bb34672534}
+      \strng{authorbibnamehash}{ce8850b81f043fb222ae95bb34672534}
+      \strng{authornamehash}{ce8850b81f043fb222ae95bb34672534}
+      \strng{authorfullhash}{d50e6e6ab46e06b65e886822c34c89f0}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2011 IEEE 11th international conference on data mining workshops}
+      \field{title}{Twitter trending topic classification}
+      \field{year}{2011}
+      \field{pages}{251\bibrangedash 258}
+      \range{pages}{8}
+    \endentry
+    \entry{Moura_2019}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=584b0eb74a805a2f5232f13a4bfa84a9}{%
+           family={Moura},
+           familyi={M\bibinitperiod},
+           given={Karina},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{584b0eb74a805a2f5232f13a4bfa84a9}
+      \strng{fullhash}{584b0eb74a805a2f5232f13a4bfa84a9}
+      \strng{bibnamehash}{584b0eb74a805a2f5232f13a4bfa84a9}
+      \strng{authorbibnamehash}{584b0eb74a805a2f5232f13a4bfa84a9}
+      \strng{authornamehash}{584b0eb74a805a2f5232f13a4bfa84a9}
+      \strng{authorfullhash}{584b0eb74a805a2f5232f13a4bfa84a9}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Medium}
+      \field{month}{1}
+      \field{title}{Ciclo de vida dos dados}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://medium.com/\@kvmoura/crisp-dm-79580b0d3ac4
+      \endverb
+      \verb{url}
+      \verb https://medium.com/%5C@kvmoura/crisp-dm-79580b0d3ac4
+      \endverb
+    \endentry
+    \entry{murthy2018twitter}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f09c95da2be0da47b82525fe26bbebb4}{%
+           family={Murthy},
+           familyi={M\bibinitperiod},
+           given={Dhiraj},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Polity Press Cambridge}%
+      }
+      \strng{namehash}{f09c95da2be0da47b82525fe26bbebb4}
+      \strng{fullhash}{f09c95da2be0da47b82525fe26bbebb4}
+      \strng{bibnamehash}{f09c95da2be0da47b82525fe26bbebb4}
+      \strng{authorbibnamehash}{f09c95da2be0da47b82525fe26bbebb4}
+      \strng{authornamehash}{f09c95da2be0da47b82525fe26bbebb4}
+      \strng{authorfullhash}{f09c95da2be0da47b82525fe26bbebb4}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Twitter}
+      \field{year}{2018}
+    \endentry
+    \entry{Nature_2022}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d212ce7fdc2357d19628334b5a2a2b2f}{%
+           family={Nature},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{d212ce7fdc2357d19628334b5a2a2b2f}
+      \strng{fullhash}{d212ce7fdc2357d19628334b5a2a2b2f}
+      \strng{bibnamehash}{d212ce7fdc2357d19628334b5a2a2b2f}
+      \strng{authorbibnamehash}{d212ce7fdc2357d19628334b5a2a2b2f}
+      \strng{authornamehash}{d212ce7fdc2357d19628334b5a2a2b2f}
+      \strng{authorfullhash}{d212ce7fdc2357d19628334b5a2a2b2f}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{journaltitle}{Nature}
+      \field{month}{10}
+      \field{number}{7931}
+      \field{volume}{610}
+      \field{year}{2022}
+      \verb{doi}
+      \verb 10.1038/d41586-022-03210-9
+      \endverb
+    \endentry
+    \entry{pereira2019analise}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f68d62b80ebb2e72aa9ae0da98051cbd}{%
+           family={Pereira},
+           familyi={P\bibinitperiod},
+           given={Mariana},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Universidade Federal da Fronteira Sul}%
+      }
+      \strng{namehash}{f68d62b80ebb2e72aa9ae0da98051cbd}
+      \strng{fullhash}{f68d62b80ebb2e72aa9ae0da98051cbd}
+      \strng{bibnamehash}{f68d62b80ebb2e72aa9ae0da98051cbd}
+      \strng{authorbibnamehash}{f68d62b80ebb2e72aa9ae0da98051cbd}
+      \strng{authornamehash}{f68d62b80ebb2e72aa9ae0da98051cbd}
+      \strng{authorfullhash}{f68d62b80ebb2e72aa9ae0da98051cbd}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{bookpagination}{sheet}
+      \field{title}{Análise exploratória de tweets utilizando modelagem de tópicos para textos curtos: caso Olimpíadas Rio 2016}
+      \field{year}{2019}
+    \endentry
+    \entry{pierre2022}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0059b7e9cfb95ef26a9e9bf7f2c822c2}{%
+           family={Pierre},
+           familyi={P\bibinitperiod},
+           given={Jod},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Universidade Federal da Fronteira Sul}%
+      }
+      \strng{namehash}{0059b7e9cfb95ef26a9e9bf7f2c822c2}
+      \strng{fullhash}{0059b7e9cfb95ef26a9e9bf7f2c822c2}
+      \strng{bibnamehash}{0059b7e9cfb95ef26a9e9bf7f2c822c2}
+      \strng{authorbibnamehash}{0059b7e9cfb95ef26a9e9bf7f2c822c2}
+      \strng{authornamehash}{0059b7e9cfb95ef26a9e9bf7f2c822c2}
+      \strng{authorfullhash}{0059b7e9cfb95ef26a9e9bf7f2c822c2}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{bookpagination}{sheet}
+      \field{title}{Utilização de modelagem de tópicos para identificar os assuntos mais discutidos sobre o Haiti no Twitter}
+      \field{year}{2022}
+    \endentry
+    \entry{scragg_2023}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=32a4f224d74bae0742618d41d7b86e0d}{%
+           family={Scragg},
+           familyi={S\bibinitperiod},
+           given={Gracie},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{32a4f224d74bae0742618d41d7b86e0d}
+      \strng{fullhash}{32a4f224d74bae0742618d41d7b86e0d}
+      \strng{bibnamehash}{32a4f224d74bae0742618d41d7b86e0d}
+      \strng{authorbibnamehash}{32a4f224d74bae0742618d41d7b86e0d}
+      \strng{authornamehash}{32a4f224d74bae0742618d41d7b86e0d}
+      \strng{authorfullhash}{32a4f224d74bae0742618d41d7b86e0d}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Twitter to "X" Case Study: The IP Implications of Rebranding}
+      \field{month}{9}
+      \field{title}{The Twitter to "X" case study: The ip implications of rebranding}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.henryhughes.com/Site/news/the-twitter-to-x-case-study-the-ip-implications-of-rebrandig.aspx
+      \endverb
+      \verb{url}
+      \verb https://www.henryhughes.com/Site/news/the-twitter-to-x-case-study-the-ip-implications-of-rebrandig.aspx
+      \endverb
+    \endentry
+    \entry{shearer2000crisp}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3a4e3f5f408e7cfa7e86f42b4a99fe8b}{%
+           family={Shearer},
+           familyi={S\bibinitperiod},
+           given={Colin},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {THE DATA WAREHOUSE INSTITUTE}%
+      }
+      \strng{namehash}{3a4e3f5f408e7cfa7e86f42b4a99fe8b}
+      \strng{fullhash}{3a4e3f5f408e7cfa7e86f42b4a99fe8b}
+      \strng{bibnamehash}{3a4e3f5f408e7cfa7e86f42b4a99fe8b}
+      \strng{authorbibnamehash}{3a4e3f5f408e7cfa7e86f42b4a99fe8b}
+      \strng{authornamehash}{3a4e3f5f408e7cfa7e86f42b4a99fe8b}
+      \strng{authorfullhash}{3a4e3f5f408e7cfa7e86f42b4a99fe8b}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of data warehousing}
+      \field{number}{4}
+      \field{title}{The CRISP-DM model: the new blueprint for data mining}
+      \field{volume}{5}
+      \field{year}{2000}
+      \field{pages}{13\bibrangedash 22}
+      \range{pages}{10}
+    \endentry
+    \entry{singh2024}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c7d64698eb42917323875c3782f2bf11}{%
+           family={Singh},
+           familyi={S\bibinitperiod},
+           given={Shubham},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c7d64698eb42917323875c3782f2bf11}
+      \strng{fullhash}{c7d64698eb42917323875c3782f2bf11}
+      \strng{bibnamehash}{c7d64698eb42917323875c3782f2bf11}
+      \strng{authorbibnamehash}{c7d64698eb42917323875c3782f2bf11}
+      \strng{authornamehash}{c7d64698eb42917323875c3782f2bf11}
+      \strng{authorfullhash}{c7d64698eb42917323875c3782f2bf11}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.demandsage.com/twitter-user-statistics-2024}}
+      \field{month}{4}
+      \field{title}{Twitter User Statistics 2024 | DAU \& MAU}
+      \field{year}{2024}
+    \endentry
+    \entry{steyvers2007probabilistic}{incollection}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=c099fca1ed23ade050824a949053db93}{%
+           family={Steyvers},
+           familyi={S\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5ed68939babf4e2fda875cfb9fb294fe}{%
+           family={Griffiths},
+           familyi={G\bibinitperiod},
+           given={Tom},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Psychology Press}%
+      }
+      \strng{namehash}{d91c327160a0f753f8b80d516228b892}
+      \strng{fullhash}{d91c327160a0f753f8b80d516228b892}
+      \strng{bibnamehash}{d91c327160a0f753f8b80d516228b892}
+      \strng{authorbibnamehash}{d91c327160a0f753f8b80d516228b892}
+      \strng{authornamehash}{d91c327160a0f753f8b80d516228b892}
+      \strng{authorfullhash}{d91c327160a0f753f8b80d516228b892}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Handbook of latent semantic analysis}
+      \field{title}{Probabilistic topic models}
+      \field{year}{2007}
+      \field{pages}{439\bibrangedash 460}
+      \range{pages}{22}
+    \endentry
+    \entry{wirth2000crisp}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=93c4571a5818e3fd7fe299eb7352e55d}{%
+           family={Wirth},
+           familyi={W\bibinitperiod},
+           given={Rüdiger},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d5dfd4b665b86c69a99a0455c78004e8}{%
+           family={Hipp},
+           familyi={H\bibinitperiod},
+           given={Jochen},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {Manchester}%
+      }
+      \strng{namehash}{c6be7756f27c3954c00f12c46ba4d2d5}
+      \strng{fullhash}{c6be7756f27c3954c00f12c46ba4d2d5}
+      \strng{bibnamehash}{c6be7756f27c3954c00f12c46ba4d2d5}
+      \strng{authorbibnamehash}{c6be7756f27c3954c00f12c46ba4d2d5}
+      \strng{authornamehash}{c6be7756f27c3954c00f12c46ba4d2d5}
+      \strng{authorfullhash}{c6be7756f27c3954c00f12c46ba4d2d5}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 4th international conference on the practical applications of knowledge discovery and data mining}
+      \field{title}{CRISP-DM: Towards a standard process model for data mining}
+      \field{volume}{1}
+      \field{year}{2000}
+      \field{pages}{29\bibrangedash 39}
+      \range{pages}{11}
+    \endentry
+    \entry{witten2005practical}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=8a6712e42c49f65d652e34f990c39c46}{%
+           family={Witten},
+           familyi={W\bibinitperiod},
+           given={Ian\bibnamedelima H},
+           giveni={I\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=14376659b7c222795bf43d1158efbaef}{%
+           family={Frank},
+           familyi={F\bibinitperiod},
+           given={Eibe},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=48886300ee5ed4036a16bffd394ea065}{%
+           family={Hall},
+           familyi={H\bibinitperiod},
+           given={Mark\bibnamedelima A},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a3b1b651d6121a975ec6e8cac79a3c0b}{%
+           family={Pal},
+           familyi={P\bibinitperiod},
+           given={Christopher\bibnamedelima J},
+           giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a2482e04dbf3957d8f1ed632c5d0a1b6}{%
+           family={Data},
+           familyi={D\bibinitperiod},
+           given={Mining},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {Elsevier Amsterdam, The Netherlands}%
+      }
+      \strng{namehash}{240464f43a3b3fb7b05b9d6ce5184c45}
+      \strng{fullhash}{3781db8e3c82ee7b2b0ee2947ef21024}
+      \strng{bibnamehash}{240464f43a3b3fb7b05b9d6ce5184c45}
+      \strng{authorbibnamehash}{240464f43a3b3fb7b05b9d6ce5184c45}
+      \strng{authornamehash}{240464f43a3b3fb7b05b9d6ce5184c45}
+      \strng{authorfullhash}{3781db8e3c82ee7b2b0ee2947ef21024}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Data mining}
+      \field{number}{4}
+      \field{title}{Practical machine learning tools and techniques}
+      \field{volume}{2}
+      \field{year}{2005}
+      \field{pages}{403\bibrangedash 413}
+      \range{pages}{11}
+    \endentry
+    \entry{yan2013biterm}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=46f04db5d325ad2c7e5718489245046a}{%
+           family={Yan},
+           familyi={Y\bibinitperiod},
+           given={Xiaohui},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3a4015314b36f50d72a43c8fb03ca87e}{%
+           family={Guo},
+           familyi={G\bibinitperiod},
+           given={Jiafeng},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5d3960d7088ffad355e274530c41ccf5}{%
+           family={Lan},
+           familyi={L\bibinitperiod},
+           given={Yanyan},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=48dc8864d7a369badfb5b1b7dab6f4fa}{%
+           family={Cheng},
+           familyi={C\bibinitperiod},
+           given={Xueqi},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{57f421a797295e5866994b010f2e6730}
+      \strng{fullhash}{21ec37cf2ced6b206e7ba19bc510d49b}
+      \strng{bibnamehash}{57f421a797295e5866994b010f2e6730}
+      \strng{authorbibnamehash}{57f421a797295e5866994b010f2e6730}
+      \strng{authornamehash}{57f421a797295e5866994b010f2e6730}
+      \strng{authorfullhash}{21ec37cf2ced6b206e7ba19bc510d49b}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 22nd international conference on World Wide Web}
+      \field{title}{A biterm topic model for short texts}
+      \field{year}{2013}
+      \field{pages}{1445\bibrangedash 1456}
+      \range{pages}{12}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

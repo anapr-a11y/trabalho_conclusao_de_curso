@@ -1,0 +1,15 @@
+\contentsline {ut@tabela}{Tabela\nobreakspace 1\nobreakspace \textendash \nobreakspace Exemplo dados antes e depois do pré-processamento}{20}{ut@tabela.1}%
+\contentsline {ut@tabela}{Tabela\nobreakspace 2\nobreakspace \textendash \nobreakspace Tópicos predominantes no ano de 2018}{20}{ut@tabela.2}%
+\contentsline {ut@tabela}{Tabela\nobreakspace 3\nobreakspace \textendash \nobreakspace Quantidade de tweets por arquivo}{21}{ut@tabela.3}%
+\contentsline {ut@tabela}{Tabela\nobreakspace 4\nobreakspace \textendash \nobreakspace Tópicos obitos a partir do arquivo 2}{22}{ut@tabela.4}%
+\contentsline {ut@tabela}{Tabela\nobreakspace 5\nobreakspace \textendash \nobreakspace Tópicos rotulados obitos a partir do arquivo 4}{22}{ut@tabela.5}%
+\contentsline {ut@tabela}{Tabela\nobreakspace 6\nobreakspace \textendash \nobreakspace Quantitativo de dados coletados por mês pela ferramenta da APIFY}{24}{ut@tabela.6}%
+\contentsline {ut@tabela}{Tabela\nobreakspace 7\nobreakspace \textendash \nobreakspace Quantitativo de resultados encontrados nas fontes acadêmicas}{27}{ut@tabela.7}%
+\contentsline {ut@tabela}{Tabela\nobreakspace 8\nobreakspace \textendash \nobreakspace Quantitativo de resultados encontrados por base}{28}{ut@tabela.8}%
+\contentsline {ut@tabela}{Tabela\nobreakspace 9\nobreakspace \textendash \nobreakspace Quantitativo total de obras utilizadas}{28}{ut@tabela.9}%
+\contentsline {ut@tabela}{Tabela\nobreakspace 10\nobreakspace \textendash \nobreakspace Requisitos funcionais do sistema computacional}{32}{ut@tabela.10}%
+\contentsline {ut@tabela}{Tabela\nobreakspace 11\nobreakspace \textendash \nobreakspace Requisitos não funcionais do sistema computacional}{32}{ut@tabela.11}%
+\contentsline {ut@tabela}{Tabela\nobreakspace 12\nobreakspace \textendash \nobreakspace Formato esperado como resultado do processamento dos arquivos}{35}{ut@tabela.12}%
+\contentsline {ut@tabela}{Tabela\nobreakspace 13\nobreakspace \textendash \nobreakspace Cronograma do Projeto do Trabalho de Conclusão de Curso (Quinzenal)}{36}{ut@tabela.13}%
+\contentsline {ut@tabela}{Tabela\nobreakspace 14\nobreakspace \textendash \nobreakspace Cronograma do Trabalho de Conclusão de Curso (Quinzenal)}{37}{ut@tabela.14}%
+\contentsline {ut@tabela}{Tabela\nobreakspace 15\nobreakspace \textendash \nobreakspace Orçamento do projeto}{38}{ut@tabela.15}%

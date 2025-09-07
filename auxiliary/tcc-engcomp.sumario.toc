@@ -1,0 +1,34 @@
+\contentsline {ut@capitulo}{1\nobreakspace Introdução}{7}{ut@capitulo.1}%
+\contentsline {ut@secao}{1.1\nobreakspace Delimitação do tema de pesquisa}{7}{ut@secao.1.1}%
+\contentsline {ut@secao}{1.2\nobreakspace Problema de pesquisa e justificativa}{8}{ut@secao.1.2}%
+\contentsline {ut@secao}{1.3\nobreakspace Objetivos}{9}{ut@secao.1.3}%
+\contentsline {ut@subsecao}{1.3.1\nobreakspace Objetivo geral}{9}{ut@subsecao.1.3.1}%
+\contentsline {ut@subsecao}{1.3.2\nobreakspace Objetivos específicos}{9}{ut@subsecao.1.3.2}%
+\contentsline {ut@capitulo}{2\nobreakspace Revisão da literatura}{10}{ut@capitulo.2}%
+\contentsline {ut@secao}{2.1\nobreakspace Inteligência artificial}{10}{ut@secao.2.1}%
+\contentsline {ut@secao}{2.2\nobreakspace X (Twitter)}{11}{ut@secao.2.2}%
+\contentsline {ut@secao}{2.3\nobreakspace Modelagem de tópicos}{13}{ut@secao.2.3}%
+\contentsline {ut@subsecao}{2.3.1\nobreakspace Documentos}{14}{ut@subsecao.2.3.1}%
+\contentsline {ut@subsecao}{2.3.2\nobreakspace Tópicos}{15}{ut@subsecao.2.3.2}%
+\contentsline {ut@subsecao}{2.3.3\nobreakspace BTM}{15}{ut@subsecao.2.3.3}%
+\contentsline {ut@secao}{2.4\nobreakspace APIFY}{17}{ut@secao.2.4}%
+\contentsline {ut@secao}{2.5\nobreakspace TRABALHOS RELACIONADOS}{19}{ut@secao.2.5}%
+\contentsline {ut@capitulo}{3\nobreakspace Procedimentos metodológicos e técnicos}{23}{ut@capitulo.3}%
+\contentsline {ut@secao}{3.1\nobreakspace Caracterização da metodologia de pesquisa}{23}{ut@secao.3.1}%
+\contentsline {ut@secao}{3.2\nobreakspace Delimitação do estudo}{23}{ut@secao.3.2}%
+\contentsline {ut@subsecao}{3.2.1\nobreakspace População e amostra}{24}{ut@subsecao.3.2.1}%
+\contentsline {ut@secao}{3.3\nobreakspace Questões de pesquisa}{25}{ut@secao.3.3}%
+\contentsline {ut@secao}{3.4\nobreakspace Esboço do projeto na prática}{25}{ut@secao.3.4}%
+\contentsline {ut@secao}{3.5\nobreakspace Aplicação da metodologia}{26}{ut@secao.3.5}%
+\contentsline {ut@subsecao}{3.5.1\nobreakspace Construção do referencial teórico}{26}{ut@subsecao.3.5.1}%
+\contentsline {ut@subsecao}{3.5.2\nobreakspace Desenvolvimento do sistema computacional}{28}{ut@subsecao.3.5.2}%
+\contentsline {ut@subsubsecao}{3.5.2.1\nobreakspace Entendimento do negócio}{29}{ut@subsubsecao.3.5.2.1}%
+\contentsline {ut@subsubsecao}{3.5.2.2\nobreakspace Entendimento dos dados}{29}{ut@subsubsecao.3.5.2.2}%
+\contentsline {ut@subsubsecao}{3.5.2.3\nobreakspace Preparação dos dados}{30}{ut@subsubsecao.3.5.2.3}%
+\contentsline {ut@subsubsecao}{3.5.2.4\nobreakspace Modelagem}{30}{ut@subsubsecao.3.5.2.4}%
+\contentsline {ut@subsubsecao}{3.5.2.5\nobreakspace Avaliação}{30}{ut@subsubsecao.3.5.2.5}%
+\contentsline {ut@subsubsecao}{3.5.2.6\nobreakspace Implementação}{31}{ut@subsubsecao.3.5.2.6}%
+\contentsline {ut@capitulo}{4\nobreakspace Apresentação da solução}{32}{ut@capitulo.4}%
+\contentsline {ut@capitulo}{5\nobreakspace Cronograma}{36}{ut@capitulo.5}%
+\contentsline {ut@capitulo}{6\nobreakspace Orçamento}{38}{ut@capitulo.6}%
+\contentsline {ut@capitulo}{Referências}{39}{cap:referencias}%

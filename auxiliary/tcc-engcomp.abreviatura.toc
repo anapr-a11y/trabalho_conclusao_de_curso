@@ -1,0 +1,5 @@
+\termline {ut@abreviatura}{btm}{{BTM}}{{\itshape {Biterm Topic Model}}}{ut@abreviatura.btm}%
+\termline {ut@abreviatura}{ide}{{IDE}}{{\itshape {Integrated Development Environment}}}{ut@abreviatura.ide}%
+\termline {ut@abreviatura}{crisp-dm}{{CRISP-DM}}{{\itshape {Cross-Industry Standard Process for Data Mining}}}{ut@abreviatura.crisp-dm}%
+\termline {ut@abreviatura}{lda}{{LDA}}{{\itshape {Latent Dirichlet Allocation}}}{ut@abreviatura.lda}%
+\termline {ut@abreviatura}{plsa}{{PLSA}}{{\itshape {Probabilistic Latent Semantic Analysis}}}{ut@abreviatura.plsa}%

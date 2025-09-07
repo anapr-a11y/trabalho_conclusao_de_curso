@@ -1,0 +1,15 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is 'c:/Users/adm/OneDrive/Área de Trabalho/TCC/05 - Modelo Overleaf/auxiliary/tcc-engcomp.blg'
+[180] biber-MSWIN64:340> INFO - === 
+[225] Biber.pm:419> INFO - Reading 'c:/Users/adm/OneDrive/Área de Trabalho/TCC/05 - Modelo Overleaf/auxiliary/tcc-engcomp.bcf'
+[344] Biber.pm:979> INFO - Found 23 citekeys in bib section 0
+[381] Biber.pm:4419> INFO - Processing section 0
+[396] Biber.pm:4610> INFO - Looking for bibtex file 'resources/bibliography.bib' for section 0
+[469] bibtex.pm:1713> INFO - LaTeX decoding ...
+[506] bibtex.pm:1519> INFO - Found BibTeX data source 'resources/bibliography.bib'
+[656] UCollate.pm:68> INFO - Overriding locale 'pt-BR' defaults 'variable = shifted' with 'variable = non-ignorable'
+[656] UCollate.pm:68> INFO - Overriding locale 'pt-BR' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[656] Biber.pm:4239> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'pt-BR'
+[656] Biber.pm:4245> INFO - No sort tailoring available for locale 'pt-BR'
+[707] bbl.pm:660> INFO - Writing 'c:/Users/adm/OneDrive/Área de Trabalho/TCC/05 - Modelo Overleaf/auxiliary/tcc-engcomp.bbl' with encoding 'UTF-8'
+[719] bbl.pm:763> INFO - Output to c:/Users/adm/OneDrive/Área de Trabalho/TCC/05 - Modelo Overleaf/auxiliary/tcc-engcomp.bbl

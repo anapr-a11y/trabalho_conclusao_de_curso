@@ -1,0 +1,2 @@
+$clean_ext = "%R.{{bbl,bcf}-SAVE-ERROR,listing,minted/*.pyg{style,tex},run.xml,*.toc}";
+$pdf_mode = 4;

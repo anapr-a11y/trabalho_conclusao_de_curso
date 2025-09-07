@@ -1,0 +1,3 @@
+\termslist {acronimo}{Lista de abreviaturas e siglas}%
+\termslist {abreviatura}{Lista de abreviaturas}%
+\termslist {sigla}{Lista de siglas}%

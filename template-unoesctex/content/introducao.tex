@@ -1,0 +1,76 @@
+\capitulo{Introdução}
+\label{cap:introducao}
+
+A utilização da inteligência artificial tem se expandido de maneira significativa em diferentes setores do mercado. As organizações vêm incorporando essas ferramentas tanto em processos internos, 
+visando maior eficiência operacional, quanto em soluções voltadas ao usuário final, proporcionando novas experiências de interação.No contexto de e-commerce, por exemplo, os mecanismos de busca tradicionais, 
+baseados em filtros rígidos, podem se mostrar limitados e pouco intuitivos.
+
+Nesse cenário, modelos de linguagem de grande escala (LLMs) têm se destacado ao possibilitar a conversão de linguagem natural em consultas estruturadas (text-to-SQL), 
+o que favorece buscas mais personalizadas e acessíveis. Essa evolução contribui para a simplificação da experiência do usuário, tornando o processo de encontrar produtos e serviços mais eficiente. 
+
+A empresa Amo Delivery, fundada em 2017 e sediada em Chapecó, consolidou-se como uma plataforma dedicada a melhorar a experiência dos usuários no setor alimentício. 
+Atualmente presente em mais de 300 cidades do Brasil, sua solução de software, denominada “Amo Ofertas”, possibilita ao usuário acessar, de maneira prática e centralizada, 
+ofertas de diferentes restaurantes, trazendo conveniência e agilidade ao processo de escolha.
+
+Diante desse contexto, o presente trabalho propõe o estudo e na implementação de um sistema de busca inteligente no aplicativo Amo Ofertas, com base em modelos de linguagem natural. 
+O sistema permitirá que os usuários realizem pesquisas em linguagem natural, eliminando a necessidade de filtros rígidos e comandos específicos, ao converter as consultas em 
+linguagem SQL estruturada (text-to-SQL). Dessa forma, o usuário poderá buscar por ofertas de forma intuitiva, utilizando expressões semelhantes à conversação cotidiana.
+
+Além disso, a solução contemplará a integração de recursos de reconhecimento de voz (audio-to-text), possibilitando que as consultas sejam feitas por comandos de voz. Essa funcionalidade
+tem como objetivo ampliar a acessibilidade e proporcionar maior comodidade, permitindo que os usuários interajam com a aplicação em diferentes contextos de uso, como em 
+situações em que a digitação não seja prática.
+
+A implementação dessas funcionalidades no contexto de busca e consulta de ofertas dentro da plataforma Amo Ofertas, 
+não irão contemplar modificações nos processos de pagamento, logística de entrega ou outros módulos já existentes. O foco deste trabalho 
+permanecerá no aprimoramento da experiência de busca do usuário, por meio da aplicação de técnicas de 
+inteligência artificial voltadas à interação natural e personalizada.
+
+
+\secao{Problema de pesquisa e justificativa}
+\label{sec:problema-pesquisa-justificativa}
+
+A análise do desempenho de atletas no basquetebol por meio de \ac{cv} é um campo promissor, 
+pois permite uma avaliação dos movimentos realizados durante o jogo. No entanto, a implementação dessa tecnologia enfrenta desafios, 
+como a captação eficiente dos dados visuais, o processamento das informações e a interpretação precisa dos resultados para oferecer um feedback útil aos atletas e treinadores. 
+Conforme Cabral (2024), a \ac{cv} tem sido amplamente empregada no esporte para melhorar o desempenho dos atletas e apoiar decisões estratégicas, impactando diretamente na performance em quadra.
+
+O problema central desta pesquisa reside na necessidade de um protótipo de \ac{cv} para a análise biomecânica do arremesso no basquetebol, 
+especialmente voltado para um time amador que compete regionalmente. A maior parte dos estudos atuais foca em atletas de alto rendimento, 
+deixando lacunas para o desenvolvimento de tecnologias aplicáveis a contextos não profissionais. 
+Segundo Souza (2023), há uma carência de estudos que abordem a inserção tecnológica no esporte de maneira acessível, 
+especialmente no Brasil, onde ainda existem barreiras como desigualdade e falta de recursos.
+
+A implementação de uma ferramenta baseada em \ac{cv} poderá auxiliar treinadores e jogadores a compreender melhor os erros e acertos no movimento de arremesso, 
+auxiliando na correção da angulação corporal e do braço do atleta, e também na velocidade do arremesso, contribuindo para um maior aproveitamento de cestas, consequentemente, 
+aprimorando também o desempenho esportivo. Além disso, Cabral (2024) destaca que modelos de deep learning podem ser empregados para o reconhecimento automático de padrões de movimento, 
+permitindo uma análise detalhada e precisa dos gestos esportivos.
+
+
+
+\secao{Objetivos}
+\label{sec:objetivos}
+Nesta seção serão abordados os objetivos gerais e específicos a serem buscados no deccorer da execução do trabalho proposto.
+
+\subsecao{Objetivo geral}
+\label{ssec:objetivo-geral}
+
+Desenvolver um protótipo baseado em visão computacional para analisar biomecanicamente o arremesso no basquetebol, com o objetivo de fornecer correções técnicas do gesto esportivo.
+
+\subsecao{Objetivos específicos}
+\label{ssec:objetivos-especificos}
+
+Os objetivos específicos do projeto seguem a ordem cronológica de execução das atividades, conforme descrito a seguir:
+
+\begin{myitemize}
+    \item Capturar vídeos de arremessos realizados por atletas da linha de lance livre, com ângulos adequados para a análise biomecânica.
+    
+    \item Importar os vídeos capturados para o sistema e aplicar técnicas de visão computacional para detectar os pontos corporais do atleta, com ênfase no braço de arremesso, utilizando o modelo yolo.
+
+    \item Calcular os ângulos articulares e parâmetros cinemáticos com base nos pontos detectados.
+
+    \item Comparar os dados extraídos com parâmetros biomecânicos de referência previamente definidos.
+
+    \item Integrar os resultados a uma interface simples e intuitiva, permitindo a visualização e interpretação dos dados obtidos.
+
+    \item Identificar diferenças técnicas entre os arremessos analisados e o modelo ideal, sugerindo correções técnicas com base no feedback automático do sistema.
+\end{myitemize}

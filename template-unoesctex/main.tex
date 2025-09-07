@@ -1,0 +1,34 @@
+\documentclass[ligatures]{unoesc-thesis}
+
+\titulo{ANÁLISE BIOMECÂNICA DE ARREMESSOS NO BASQUETE COM VISÃO COMPUTACIONAL}
+\autor{Ana Paula Rampanelli}
+\coautor{orientador}{Prof. Jacson Luiz Matte}
+\descricao{Projeto de Trabalho de Conclusão de Curso apresentado ao Curso de Engenharia de Computação, Área das Ciências Exatas e da Terra, da Universidade do Oeste de Santa Catarina -- Unoesc Campus de Chapecó, como requisito parcial à obtenção do grau de bacharel em Engenharia de Computação}
+\cidade{Chapecó}
+\data{2025}
+
+\palavraschave{Unoesc, LaTeX}
+\palavraschave[\itshape]{template}
+
+\input{preamble}
+\renewenvironment{myitemize}{
+  \begin{itemize}[
+    label=\textbullet,
+    leftmargin=*,
+    topsep=5pt,
+    partopsep=0pt,
+    itemsep=0pt,
+    parsep=0pt
+  ]
+}{
+  \end{itemize}
+}
+\DeclareBibliographyCategory{online}
+\addtocategory{online}{cbb}
+\begin{document}
+\append{content/introducao}
+\append{content/revisao-literatura}
+\append{content/procedimentos-metodologicos-tecnicos}
+\append{content/apresentacao-solucao}
+\append{content/referencias}
+\end{document}

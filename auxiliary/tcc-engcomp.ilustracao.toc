@@ -1,0 +1,17 @@
+\contentsline {ut@ilustracao}{Ilustração\nobreakspace 1\nobreakspace \textendash \nobreakspace Busca pelo termo \textit {Inteligência Artificial} no Google}{10}{ut@ilustracao.1}%
+\contentsline {ut@ilustracao}{Ilustração\nobreakspace 2\nobreakspace \textendash \nobreakspace Exemplo de um \textit {tweet} retirado do dataset}{12}{ut@ilustracao.2}%
+\contentsline {ut@ilustracao}{Ilustração\nobreakspace 3\nobreakspace \textendash \nobreakspace Exemplo de uma aplicação de modelagem de tópicos}{13}{ut@ilustracao.3}%
+\contentsline {ut@ilustracao}{Ilustração\nobreakspace 4\nobreakspace \textendash \nobreakspace Documento textual}{14}{ut@ilustracao.4}%
+\contentsline {ut@ilustracao}{Ilustração\nobreakspace 5\nobreakspace \textendash \nobreakspace Exemplo de tópicos e das suas palavras mais frequentes}{15}{ut@ilustracao.5}%
+\contentsline {ut@ilustracao}{Ilustração\nobreakspace 6\nobreakspace \textendash \nobreakspace Ilustração gráfica modelo LDA}{16}{ut@ilustracao.6}%
+\contentsline {ut@ilustracao}{Ilustração\nobreakspace 7\nobreakspace \textendash \nobreakspace Ilustração gráfica modelo BTM}{17}{ut@ilustracao.7}%
+\contentsline {ut@ilustracao}{Ilustração\nobreakspace 8\nobreakspace \textendash \nobreakspace Ator para data mining disponibilizado pela plataforma}{18}{ut@ilustracao.8}%
+\contentsline {ut@ilustracao}{Ilustração\nobreakspace 9\nobreakspace \textendash \nobreakspace Parâmetros personalizáveis do ator}{18}{ut@ilustracao.9}%
+\contentsline {ut@ilustracao}{Ilustração\nobreakspace 10\nobreakspace \textendash \nobreakspace Parâmetros personalizáveis do ator}{19}{ut@ilustracao.10}%
+\contentsline {ut@ilustracao}{Ilustração\nobreakspace 11\nobreakspace \textendash \nobreakspace Fluxograma visão geral do projeto}{25}{ut@ilustracao.11}%
+\contentsline {ut@ilustracao}{Ilustração\nobreakspace 12\nobreakspace \textendash \nobreakspace Etapas desenvolvimento do projeto}{29}{ut@ilustracao.12}%
+\contentsline {ut@ilustracao}{Ilustração\nobreakspace 13\nobreakspace \textendash \nobreakspace Gráfico de interesse do Google Trends}{33}{ut@ilustracao.13}%
+\contentsline {ut@ilustracao}{Ilustração\nobreakspace 14\nobreakspace \textendash \nobreakspace Palavras-chave para extração dos dados}{33}{ut@ilustracao.14}%
+\contentsline {ut@ilustracao}{Ilustração\nobreakspace 15\nobreakspace \textendash \nobreakspace Post exemplificando os elementos textuais}{34}{ut@ilustracao.15}%
+\contentsline {ut@ilustracao}{Ilustração\nobreakspace 16\nobreakspace \textendash \nobreakspace Estrutura dos arquivos CSV}{34}{ut@ilustracao.16}%
+\contentsline {ut@ilustracao}{Ilustração\nobreakspace 17\nobreakspace \textendash \nobreakspace Comparação de texto antes e depois de processado}{35}{ut@ilustracao.17}%
