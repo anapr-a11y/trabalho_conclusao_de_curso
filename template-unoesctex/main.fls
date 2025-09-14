@@ -1,8 +1,8 @@
-PWD c:/Users/anapa/Desktop/TCC/template-unoesctex
+PWD c:/Users/anapa/Documents/GitHub/trabalho_conclusao_de_curso/template-unoesctex
 INPUT c:/texlive/2025/texmf.cnf
 INPUT c:/texlive/2025/texmf-dist/web2c/texmf.cnf
 INPUT c:/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT c:/Users/anapa/Desktop/TCC/template-unoesctex/main.tex
+INPUT c:/Users/anapa/Documents/GitHub/trabalho_conclusao_de_curso/template-unoesctex/main.tex
 OUTPUT main.log
 INPUT ./unoesc-thesis.cls
 INPUT unoesc-thesis.cls
@@ -341,9 +341,6 @@ INPUT c:/texlive/2025/texmf-dist/tex/latex/lm/t1lmr.fd
 INPUT c:/texlive/2025/texmf-dist/tex/latex/lm/t1lmr.fd
 INPUT c:/texlive/2025/texmf-dist/tex/latex/lm/t1lmr.fd
 INPUT c:/texlive/2025/texmf-dist/fonts/tfm/public/lm/ec-lmr10.tfm
-INPUT ./main.aux
-INPUT ./main.aux
-INPUT main.aux
 OUTPUT main.aux
 INPUT c:/texlive/2025/texmf-dist/fonts/tfm/public/lm/ec-lmr12.tfm
 INPUT c:/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
@@ -388,7 +385,6 @@ INPUT ./content/introducao.tex
 INPUT ./content/introducao.tex
 INPUT ./content/introducao.tex
 INPUT content/introducao.tex
-INPUT c:/texlive/2025/texmf-dist/fonts/tfm/public/lm/ec-lmri12.tfm
 INPUT c:/texlive/2025/texmf-dist/tex/latex/lm/ts1lmr.fd
 INPUT c:/texlive/2025/texmf-dist/tex/latex/lm/ts1lmr.fd
 INPUT c:/texlive/2025/texmf-dist/tex/latex/lm/ts1lmr.fd
@@ -399,6 +395,7 @@ INPUT ./content/revisao-literatura.tex
 INPUT ./content/revisao-literatura.tex
 INPUT ./content/revisao-literatura.tex
 INPUT content/revisao-literatura.tex
+INPUT c:/texlive/2025/texmf-dist/fonts/tfm/public/lm/ec-lmri12.tfm
 INPUT c:/texlive/2025/texmf-dist/fonts/tfm/public/lm/ec-lmbxi10.tfm
 INPUT ./resources/floats/ilustracoes/desempenho.png
 INPUT ./resources/floats/ilustracoes/desempenho.png

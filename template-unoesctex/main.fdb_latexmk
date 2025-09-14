@@ -1,13 +1,13 @@
 # Fdb version 4
-["biber main"] 0 "main.bcf" "main.bbl" "main" 0 -1
-  "main.bcf" 1756678413 114159 834c6d3b4094931186a37b4d7ba74ee8 "pdflatex"
+["biber main"] 0 "main.bcf" "main.bbl" "main" 1757873001.5121 -1
+  "main.bcf" 1757873000 114159 834c6d3b4094931186a37b4d7ba74ee8 "pdflatex"
   "resources/bibliography.bib" 1747675486 8376 1b1376faa4613e4ed49f99c352cea4f7 ""
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1756678407.82995 "c:/Users/anapa/Desktop/TCC/template-unoesctex/main.tex" "main.pdf" "main" 1756678414.45526 2
-  "c:/Users/anapa/Desktop/TCC/template-unoesctex/main.tex" 1756593629 1083 2be32e24206395eb62a90c14ca1a3022 ""
+["pdflatex"] 1757872994.20077 "c:/Users/anapa/Documents/GitHub/trabalho_conclusao_de_curso/template-unoesctex/main.tex" "main.pdf" "main" 1757873001.5132 2
+  "c:/Users/anapa/Documents/GitHub/trabalho_conclusao_de_curso/template-unoesctex/main.tex" 1756593629 1083 2be32e24206395eb62a90c14ca1a3022 ""
   "c:/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc" 1756586260 2375 baa924870cfb487815765f9094cf3728 ""
   "c:/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc" 1756586260 3031 6c4d3515bf7115d8518af1c9ab97ca44 ""
   "c:/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1756584925 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -212,7 +212,7 @@
   "c:/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1756590677 3606105 84d5d1ef9d1551da528a191e81a27d75 ""
   "c:/texlive/2025/texmf.cnf" 1756590237 713 e69b156964470283e0530f5060668171 ""
   "content/apresentacao-solucao.tex" 1750197931 9147 9140b2c44a357b9836f8c667564ddfdb ""
-  "content/introducao.tex" 1756678398 6204 e1f46cf4f7e4242e0a8427f1a9414160 ""
+  "content/introducao.tex" 1757872984 6926 0527b5159780093fb1be7cae4b3c6f36 ""
   "content/procedimentos-metodologicos-tecnicos.tex" 1750196588 16182 d99f04c3aba56db8362e45ae8b90e6c2 ""
   "content/referencias.tex" 1750207265 12348 4d947ab2a648dd6a1f2541e945350187 ""
   "content/revisao-literatura.tex" 1750197767 46769 8986a582468343b1cd7b09a986b64559 ""
@@ -224,9 +224,9 @@
   "main./ext@ut@float@quadro " 0 -1 0 ""
   "main./ext@ut@float@tabela " 0 -1 0 ""
   "main./ext@ut@sumario " 0 -1 0 ""
-  "main.aux" 1756678413 20625 03ae8a99b9310133e6bafef235958e59 "pdflatex"
+  "main.aux" 1757873000 19310 e01f5b341c35433f348f235bee4335b6 "pdflatex"
   "main.bbl" 1756593703 486 76d65a242ec496c9b4361af646ff12cb "biber main"
-  "main.out" 1756678413 10432 8ff677168a76316d4ef026df95f5a467 "pdflatex"
+  "main.out" 1757873000 10366 e7793d1944c2a476ab98c4a0a3ed69f1 "pdflatex"
   "main.tex" 1756593629 1083 2be32e24206395eb62a90c14ca1a3022 ""
   "preamble.tex" 1750192755 1052 5dac296ebf0943b70f915cd5a9438732 ""
   "resources/floats/ilustracoes/ESQUELETO.png" 1748020380 25389 32e96ddc3895cc83a42fb039c00d3d87 ""
@@ -248,7 +248,7 @@
   "resources/floats/ilustracoes/noahapp.png" 1749663386 468950 812bb735424c2447148ef8f8b3df0883 ""
   "resources/floats/ilustracoes/opencv.png" 1747974982 94658 7a4dba01ecb2df7527b773ac773c238f ""
   "resources/floats/tipos-ilustracoes.tex" 1710808161 281 32e748c206e6e19bdf7c3a0c049f905b ""
-  "resources/terms/acronimos.tex" 1750204984 1329 9e2baa08484c24aba9465d79af850807 ""
+  "resources/terms/acronimos.tex" 1757869402 363 9338f4d1858e2aaa4710edbdf71181ec ""
   "unoesc-thesis.cls" 1743961902 46997 26e0cf4a0982d87b1c2ca2536d0d9fd6 ""
   (generated)
   "main.acronimo.lst.toc"

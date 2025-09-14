@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.8.30)  31 AUG 2025 19:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.8.30)  14 SEP 2025 15:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/anapa/Desktop/TCC/template-unoesctex/main.tex
-(c:/Users/anapa/Desktop/TCC/template-unoesctex/main.tex
+**c:/Users/anapa/Documents/GitHub/trabalho_conclusao_de_curso/template-unoesctex/main.tex
+(c:/Users/anapa/Documents/GitHub/trabalho_conclusao_de_curso/template-unoesctex/main.tex
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-08-13>
 (./unoesc-thesis.cls
@@ -1085,7 +1085,8 @@ File: csquotes.cfg
 LaTeX Font Info:    Trying to load font information for T1+lmr on input line 28.
  (c:/texlive/2025/texmf-dist/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-) (./main.aux)
+)
+No file main.aux.
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
@@ -1106,7 +1107,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 28.
 LaTeX Font Info:    ... okay on input line 28.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 28.
 LaTeX Font Info:    ... okay on input line 28.
- (c:/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+(c:/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 \scratchcounter=\count520
 \scratchdimen=\dimen333
 \scratchbox=\box73
@@ -1203,6 +1204,25 @@ Package caption Info: End \AtBeginDocument code.
  (./content/introducao.tex
 \ut@seccntwidth=\dimen335
 
+./content/introducao.tex:4: Undefined control sequence.
+l.4 A utilização da inteligência artificial \ia
+                                                  {IA} vem revolucionado de ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./content/introducao.tex:12: Undefined control sequence.
+l.12 ...modelos de linguagem de grande escala \llm
+                                                  {LLM} têm se destacado ao...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
 
 
 Overfull \vbox (0.55678pt too high) has occurred while \output is active []
@@ -1213,17 +1233,53 @@ Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
 ]
 \ut@seccntwidth=\dimen336
-\ut@width=\dimen337
-\ut@seccntwidth=\dimen338
-\ut@seccntwidth=\dimen339
+
+./content/introducao.tex:34: Undefined control sequence.
+l.34  modelos de linguagem natural \lmm
+                                       {LLMS} tornou-se uma tendência cresc...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./content/introducao.tex:40: Undefined control sequence.
+l.40 linguagem natural \pln
+                           {PLN} em seus serviços, elevando o nível da exp...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./content/introducao.tex:42: Undefined control sequence.
+l.42 ...máquina (do inglês ,Machine Learning \ml
+                                                  {ML}) para tornar a busca ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./content/introducao.tex:46: Undefined control sequence.
+l.46 \ia
+        {IA}, muitos aplicativos ainda oferecem experiências limitadas ao u...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\ut@seccntwidth=\dimen337
 
 
 
 Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
  [4]
-\ut@seccntwidth=\dimen340
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 64.
+\ut@seccntwidth=\dimen338
+\ut@seccntwidth=\dimen339
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 74.
  (c:/texlive/2025/texmf-dist/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ))
@@ -1232,9 +1288,9 @@ File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
  [5{c:/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}] (./content/revisao-literatura.tex
+\ut@seccntwidth=\dimen340
 \ut@seccntwidth=\dimen341
 \ut@seccntwidth=\dimen342
-\ut@seccntwidth=\dimen343
 
 
 
@@ -1244,7 +1300,7 @@ Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
 
 ]
-\ut@seccntwidth=\dimen344
+\ut@seccntwidth=\dimen343
 
 
 
@@ -1252,7 +1308,7 @@ Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
  [7]
 Package hyperref Info: bookmark level for unknown ut@figura defaults to 0 on input line 59.
-<resources/floats/ilustracoes/desempenho.png, id=61, 1053.9375pt x 508.90125pt>
+<resources/floats/ilustracoes/desempenho.png, id=55, 1053.9375pt x 508.90125pt>
 File: resources/floats/ilustracoes/desempenho.png Graphic file (type png)
 <use resources/floats/ilustracoes/desempenho.png>
 Package pdftex.def Info: resources/floats/ilustracoes/desempenho.png  used on input line 62.
@@ -1263,7 +1319,7 @@ Package pdftex.def Info: resources/floats/ilustracoes/desempenho.png  used on in
 Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
  [8 <./resources/floats/ilustracoes/desempenho.png>]
-\ut@seccntwidth=\dimen345
+\ut@seccntwidth=\dimen344
 
 ./content/revisao-literatura.tex:91: Undefined control sequence.
 l.91 \paragraph
@@ -1280,8 +1336,8 @@ and I'll forget about whatever was undefined.
 Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
  [9]
-\ut@seccntwidth=\dimen346
-<resources/floats/ilustracoes/modelobiomecanico.png, id=76, 212.12584pt x 197.73875pt>
+\ut@seccntwidth=\dimen345
+<resources/floats/ilustracoes/modelobiomecanico.png, id=70, 212.12584pt x 197.73875pt>
 File: resources/floats/ilustracoes/modelobiomecanico.png Graphic file (type png)
 <use resources/floats/ilustracoes/modelobiomecanico.png>
 Package pdftex.def Info: resources/floats/ilustracoes/modelobiomecanico.png  used on input line 114.
@@ -1301,28 +1357,195 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-\ut@seccntwidth=\dimen347
+\ut@seccntwidth=\dimen346
 
 
 
 Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
  [11 <./resources/floats/ilustracoes/Modelobiomecanico.png>]
-\ut@width=\dimen348
-\ut@width=\dimen349
-\ut@seccntwidth=\dimen350
+\@i=\count527
+
+
+./content/revisao-literatura.tex:136: Class unoesc-thesis Error: O acrônimo ia não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.136 ...são computacional é um campo da \ac{ia}
+                                                   que permite que máquinas...
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
+\@i=\count528
+
+./content/revisao-literatura.tex:136: Class unoesc-thesis Error: O acrônimo ia não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.136 ...são computacional é um campo da \ac{ia}
+                                                   que permite que máquinas...
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
+\@i=\count529
+
+./content/revisao-literatura.tex:139: Class unoesc-thesis Error: O acrônimo cnn não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.139 ...izado profundo, especialmente as \ac{cnn}
+                                                  , a \ac{cv} passou a ating...
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
+\@i=\count530
+
+./content/revisao-literatura.tex:139: Class unoesc-thesis Error: O acrônimo cnn não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.139 ...izado profundo, especialmente as \ac{cnn}
+                                                  , a \ac{cv} passou a ating...
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
+\@i=\count531
+
+./content/revisao-literatura.tex:139: Class unoesc-thesis Error: O acrônimo cv não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.139 ...ndo, especialmente as \ac{cnn}, a \ac{cv}
+                                                   passou a atingir níveis ...
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
+\@i=\count532
+
+./content/revisao-literatura.tex:139: Class unoesc-thesis Error: O acrônimo cv não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.139 ...ndo, especialmente as \ac{cnn}, a \ac{cv}
+                                                   passou a atingir níveis ...
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
+\@i=\count533
+
+./content/revisao-literatura.tex:142: Class unoesc-thesis Error: O acrônimo cv não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.142 Hoje, a \ac{cv}
+                      está presente em diversos setores. Na indústria, é ...
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
+\@i=\count534
+
+./content/revisao-literatura.tex:142: Class unoesc-thesis Error: O acrônimo cv não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.142 Hoje, a \ac{cv}
+                      está presente em diversos setores. Na indústria, é ...
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
+\ut@seccntwidth=\dimen347
+\@i=\count535
+
+./content/revisao-literatura.tex:147: Class unoesc-thesis Error: O acrônimo cv não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.147 No basquetebol, a \ac{cv}
+                                tem sido empregada em diversas frentes. A NB...
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
+\@i=\count536
+
+./content/revisao-literatura.tex:147: Class unoesc-thesis Error: O acrônimo cv não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.147 No basquetebol, a \ac{cv}
+                                tem sido empregada em diversas frentes. A NB...
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
+\@i=\count537
+
+./content/revisao-literatura.tex:150: Class unoesc-thesis Error: O acrônimo cv não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.150 ...esenvolvido sistemas que combinam \ac{cv}
+                                                   com realidade aumentada p...
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
+\@i=\count538
+
+./content/revisao-literatura.tex:150: Class unoesc-thesis Error: O acrônimo cv não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.150 ...esenvolvido sistemas que combinam \ac{cv}
+                                                   com realidade aumentada p...
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
+\@i=\count539
+
+./content/revisao-literatura.tex:154: Class unoesc-thesis Error: O acrônimo ia não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.154 ...utiliza a câmera do smartphone e \ac{ia}
+                                                   para funcionar como um tr...
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
+\@i=\count540
+
+./content/revisao-literatura.tex:154: Class unoesc-thesis Error: O acrônimo ia não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.154 ...utiliza a câmera do smartphone e \ac{ia}
+                                                   para funcionar como um tr...
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
 
 
 
 Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
  [12]
-<resources/floats/ilustracoes/noah.png, id=108, 906.38625pt x 471.26062pt>
+<resources/floats/ilustracoes/noah.png, id=91, 906.38625pt x 471.26062pt>
 File: resources/floats/ilustracoes/noah.png Graphic file (type png)
 <use resources/floats/ilustracoes/noah.png>
 Package pdftex.def Info: resources/floats/ilustracoes/noah.png  used on input line 166.
 (pdftex.def)             Requested size: 341.43307pt x 177.52048pt.
-<resources/floats/ilustracoes/noahapp.png, id=109, 755.07094pt x 649.67719pt>
+<resources/floats/ilustracoes/noahapp.png, id=92, 755.07094pt x 649.67719pt>
 File: resources/floats/ilustracoes/noahapp.png Graphic file (type png)
 <use resources/floats/ilustracoes/noahapp.png>
 Package pdftex.def Info: resources/floats/ilustracoes/noahapp.png  used on input line 175.
@@ -1333,11 +1556,131 @@ Package pdftex.def Info: resources/floats/ilustracoes/noahapp.png  used on input
 Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
  [13 <./resources/floats/ilustracoes/noah.png>]
-\ut@seccntwidth=\dimen351
-\ut@width=\dimen352
+\@i=\count541
 
-Overfull \hbox (24.62434pt too wide) in paragraph at lines 194--196
-[]\T1/lmr/m/n/12 Em mui-tos sis-te-mas mo-der-nos, es-pe-ci-al-mente os que uti-li-zam []CNN[], o pr�-processamento
+
+./content/revisao-literatura.tex:181: Class unoesc-thesis Error: O acrônimo cv não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.181 ...os, conseguindo assim por meio de \ac{cv}
+                                                   mapear o local exato do a...
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
+\@i=\count542
+
+./content/revisao-literatura.tex:181: Class unoesc-thesis Error: O acrônimo cv não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.181 ...os, conseguindo assim por meio de \ac{cv}
+                                                   mapear o local exato do a...
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
+\ut@seccntwidth=\dimen348
+\@i=\count543
+
+./content/revisao-literatura.tex:191: Class unoesc-thesis Error: O acrônimo cv não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.191 Já a \ac{cv}
+                   , por outro lado, ``não altera uma imagem, mas dá senti...
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
+\@i=\count544
+
+./content/revisao-literatura.tex:191: Class unoesc-thesis Error: O acrônimo cv não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.191 Já a \ac{cv}
+                   , por outro lado, ``não altera uma imagem, mas dá senti...
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
+\@i=\count545
+
+./content/revisao-literatura.tex:192: Class unoesc-thesis Error: O acrônimo cv não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.192 ...a ser interpretada por modelos de \ac{cv}
+                                                  .
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
+\@i=\count546
+
+./content/revisao-literatura.tex:192: Class unoesc-thesis Error: O acrônimo cv não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.192 ...a ser interpretada por modelos de \ac{cv}
+                                                  .
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
+\@i=\count547
+
+./content/revisao-literatura.tex:194: Class unoesc-thesis Error: O acrônimo cnn não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.194 ...s, especialmente os que utilizam \ac{cnn}
+                                                  , o pré-processamento da ...
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
+\@i=\count548
+
+./content/revisao-literatura.tex:194: Class unoesc-thesis Error: O acrônimo cnn não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.194 ...s, especialmente os que utilizam \ac{cnn}
+                                                  , o pré-processamento da ...
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
+\@i=\count549
+
+./content/revisao-literatura.tex:195: Class unoesc-thesis Error: O acrônimo opencv não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.195 Ferramentas como \ac{opencv}
+                                   e MATLAB são amplamente utilizadas nesse...
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
+\@i=\count550
+
+./content/revisao-literatura.tex:195: Class unoesc-thesis Error: O acrônimo opencv não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.195 Ferramentas como \ac{opencv}
+                                   e MATLAB são amplamente utilizadas nesse...
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
+
+Overfull \hbox (15.49425pt too wide) in paragraph at lines 194--196
+[]\T1/lmr/m/n/12 Em mui-tos sis-te-mas mo-der-nos, es-pe-ci-al-mente os que uti-li-zam   ( ), o pr�-processamento
  []
 
 
@@ -1346,21 +1689,118 @@ Overfull \hbox (24.62434pt too wide) in paragraph at lines 194--196
 Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
  [14 <./resources/floats/ilustracoes/noahapp.png>]
-\ut@width=\dimen353
-<resources/floats/ilustracoes/contraste.png, id=133, 1226.33156pt x 457.71pt>
+\@i=\count551
+
+
+./content/revisao-literatura.tex:203: Class unoesc-thesis Error: O acrônimo yolo não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.203 ...o que a entrada da rede neural (\ac{yolo}
+                                                  ) esteja mais limpa e meno...
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
+\@i=\count552
+
+./content/revisao-literatura.tex:203: Class unoesc-thesis Error: O acrônimo yolo não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.203 ...o que a entrada da rede neural (\ac{yolo}
+                                                  ) esteja mais limpa e meno...
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
+<resources/floats/ilustracoes/contraste.png, id=108, 1226.33156pt x 457.71pt>
 File: resources/floats/ilustracoes/contraste.png Graphic file (type png)
 <use resources/floats/ilustracoes/contraste.png>
 Package pdftex.def Info: resources/floats/ilustracoes/contraste.png  used on input line 211.
 (pdftex.def)             Requested size: 386.96027pt x 144.42386pt.
-\ut@seccntwidth=\dimen354
+\@i=\count553
+
+./content/revisao-literatura.tex:217: Class unoesc-thesis Error: O acrônimo cv não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.217 ...imagens ideais para os modelos de \ac{cv}
+                                                   e posterior extração de...
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
+\@i=\count554
+
+./content/revisao-literatura.tex:217: Class unoesc-thesis Error: O acrônimo cv não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.217 ...imagens ideais para os modelos de \ac{cv}
+                                                   e posterior extração de...
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
+\@i=\count555
+
+./content/revisao-literatura.tex:218: Class unoesc-thesis Error: O acrônimo opencv não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.218 Ferramentas como a biblioteca \ac{opencv}
+                                                são utilizadas amplamente p...
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
+\@i=\count556
+
+./content/revisao-literatura.tex:218: Class unoesc-thesis Error: O acrônimo opencv não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.218 Ferramentas como a biblioteca \ac{opencv}
+                                                são utilizadas amplamente p...
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
+\ut@seccntwidth=\dimen349
 
 
 
 Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
  [15 <./resources/floats/ilustracoes/contraste.png>]
+\@i=\count557
+
+
+./content/revisao-literatura.tex:223: Class unoesc-thesis Error: O acrônimo cv não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.223 ... de poses humanas é uma área da \ac{cv}
+                                                   voltada à identificaçã...
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
+\@i=\count558
+
+./content/revisao-literatura.tex:223: Class unoesc-thesis Error: O acrônimo cv não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.223 ... de poses humanas é uma área da \ac{cv}
+                                                   voltada à identificaçã...
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
 Package hyperref Info: bookmark level for unknown ut@tabela defaults to 0 on input line 245.
- (c:/texlive/2025/texmf-dist/tex/latex/lm/ot1lmr.fd) (c:/texlive/2025/texmf-dist/tex/latex/lm/omllmm.fd) (c:/texlive/2025/texmf-dist/tex/latex/lm/omslmsy.fd) (c:/texlive/2025/texmf-dist/tex/latex/lm/omxlmex.fd)
+(c:/texlive/2025/texmf-dist/tex/latex/lm/ot1lmr.fd) (c:/texlive/2025/texmf-dist/tex/latex/lm/omllmm.fd) (c:/texlive/2025/texmf-dist/tex/latex/lm/omslmsy.fd) (c:/texlive/2025/texmf-dist/tex/latex/lm/omxlmex.fd)
 Underfull \hbox (badness 10000) in paragraph at lines 258--258
 []|\T1/lmr/m/n/12 Carnegie Mel-lon
  []
@@ -1445,32 +1885,346 @@ Underfull \hbox (badness 10000) in paragraph at lines 258--258
 []|\T1/lmr/bx/n/12 Disponibilidade
  []
 
-\ut@seccntwidth=\dimen355
+\ut@seccntwidth=\dimen350
+\@i=\count559
+
+./content/revisao-literatura.tex:267: Class unoesc-thesis Error: O acrônimo cnn não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.267 ...otalmente conectadas (MLPs), as \acp{cnn}
+                                                   exploram o princípio da ...
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
+\@i=\count560
+
+./content/revisao-literatura.tex:267: Class unoesc-thesis Error: O acrônimo cnn não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.267 ...otalmente conectadas (MLPs), as \acp{cnn}
+                                                   exploram o princípio da ...
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
 
 
 
 Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
  [16]
+\@i=\count561
+
+
+./content/revisao-literatura.tex:271: Class unoesc-thesis Error: O acrônimo cnn não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.271 ...plo, as primeiras camadas de uma \ac{cnn}
+                                                   aprendem a detectar borda...
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
+\@i=\count562
+
+./content/revisao-literatura.tex:271: Class unoesc-thesis Error: O acrônimo cnn não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.271 ...plo, as primeiras camadas de uma \ac{cnn}
+                                                   aprendem a detectar borda...
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
+
 
 
 Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
  [17]
-\ut@seccntwidth=\dimen356
-\ut@width=\dimen357
+\@i=\count563
+
+
+./content/revisao-literatura.tex:274: Class unoesc-thesis Error: O acrônimo cnn não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.274 ... é uma das grandes forças das \acp{cnn}
+                                                  . Como mencionado por Aror...
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
+\@i=\count564
+
+./content/revisao-literatura.tex:274: Class unoesc-thesis Error: O acrônimo cnn não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.274 ... é uma das grandes forças das \acp{cnn}
+                                                  . Como mencionado por Aror...
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
+\@i=\count565
+
+./content/revisao-literatura.tex:278: Class unoesc-thesis Error: O acrônimo cnn não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.278 ...zada dos filtros permite que uma \ac{cnn}
+                                                   reconheça um objeto inde...
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
+\@i=\count566
+
+./content/revisao-literatura.tex:278: Class unoesc-thesis Error: O acrônimo cnn não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.278 ...zada dos filtros permite que uma \ac{cnn}
+                                                   reconheça um objeto inde...
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
+\ut@seccntwidth=\dimen351
+\@i=\count567
+
+./content/revisao-literatura.tex:284: Class unoesc-thesis Error: O acrônimo yolo não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.284 ...gios no processo de detecção, \ac{yolo}
+                                                   reformula o problema como...
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
+\@i=\count568
+
+./content/revisao-literatura.tex:284: Class unoesc-thesis Error: O acrônimo yolo não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.284 ...gios no processo de detecção, \ac{yolo}
+                                                   reformula o problema como...
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
+\@i=\count569
+
+./content/revisao-literatura.tex:288: Class unoesc-thesis Error: O acrônimo yolo não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.288 A arquitetura original da \ac{yolo}
+                                          é composta por 24 camadas convolu...
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
+\@i=\count570
+
+./content/revisao-literatura.tex:288: Class unoesc-thesis Error: O acrônimo yolo não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.288 A arquitetura original da \ac{yolo}
+                                          é composta por 24 camadas convolu...
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
+\@i=\count571
+
+./content/revisao-literatura.tex:290: Class unoesc-thesis Error: O acrônimo yolo não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.290 ...a Encord (2024) destaca que ``a \ac{yolo}
+                                                   processa a imagem inteira...
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
+\@i=\count572
+
+./content/revisao-literatura.tex:290: Class unoesc-thesis Error: O acrônimo yolo não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.290 ...a Encord (2024) destaca que ``a \ac{yolo}
+                                                   processa a imagem inteira...
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
+\@i=\count573
+
+./content/revisao-literatura.tex:291: Class unoesc-thesis Error: O acrônimo yolo não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.291 ...uma das principais vantagens da \ac{yolo}
+                                                   em relação a métodos q...
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
+\@i=\count574
+
+./content/revisao-literatura.tex:291: Class unoesc-thesis Error: O acrônimo yolo não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.291 ...uma das principais vantagens da \ac{yolo}
+                                                   em relação a métodos q...
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
+\@i=\count575
+
+./content/revisao-literatura.tex:293: Class unoesc-thesis Error: O acrônimo fps não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.293 ...atingiu desempenho superior a 45 \ac{fps}
+                                                   com latência inferior a ...
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
+\@i=\count576
+
+./content/revisao-literatura.tex:293: Class unoesc-thesis Error: O acrônimo fps não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.293 ...atingiu desempenho superior a 45 \ac{fps}
+                                                   com latência inferior a ...
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
 
 
 
 Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
  [18]
-<resources/floats/ilustracoes/NBA.jpg, id=177, 1027.84pt x 578.16pt>
+\@i=\count577
+
+
+./content/revisao-literatura.tex:295: Class unoesc-thesis Error: O acrônimo yolo não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.295 ...ho et al. (2022) explicam que a \ac{yolo}
+                                                   combina os dois processos...
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
+\@i=\count578
+
+./content/revisao-literatura.tex:295: Class unoesc-thesis Error: O acrônimo yolo não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.295 ...ho et al. (2022) explicam que a \ac{yolo}
+                                                   combina os dois processos...
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
+\@i=\count579
+
+./content/revisao-literatura.tex:296: Class unoesc-thesis Error: O acrônimo yolo não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.296 Eles afirmam que ``\ac{yolo}
+                                   é capaz de responder duas perguntas: qua...
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
+\@i=\count580
+
+./content/revisao-literatura.tex:296: Class unoesc-thesis Error: O acrônimo yolo não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.296 Eles afirmam que ``\ac{yolo}
+                                   é capaz de responder duas perguntas: qua...
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
+<resources/floats/ilustracoes/NBA.jpg, id=134, 1027.84pt x 578.16pt>
 File: resources/floats/ilustracoes/NBA.jpg Graphic file (type jpg)
 <use resources/floats/ilustracoes/NBA.jpg>
 Package pdftex.def Info: resources/floats/ilustracoes/NBA.jpg  used on input line 301.
 (pdftex.def)             Requested size: 318.66948pt x 179.25421pt.
-\ut@seccntwidth=\dimen358
+\ut@seccntwidth=\dimen352
+\@i=\count581
+
+./content/revisao-literatura.tex:311: Class unoesc-thesis Error: O acrônimo yolo não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.311 Desde sua criação, o framework \ac{yolo}
+                                                 evoluiu significativamente,...
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
+\@i=\count582
+
+./content/revisao-literatura.tex:311: Class unoesc-thesis Error: O acrônimo yolo não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.311 Desde sua criação, o framework \ac{yolo}
+                                                 evoluiu significativamente,...
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
+\@i=\count583
+
+./content/revisao-literatura.tex:315: Class unoesc-thesis Error: O acrônimo yolo não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.315 ...as três principais versões do \ac{yolo}
+                                                  , com informações retira...
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
+\@i=\count584
+
+./content/revisao-literatura.tex:315: Class unoesc-thesis Error: O acrônimo yolo não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.315 ...as três principais versões do \ac{yolo}
+                                                  , com informações retira...
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
 
 
 ./content/revisao-literatura.tex:334: Package array Error:  Illegal pream-token (x): `c' used.
@@ -1670,7 +2424,7 @@ If that doesn't work, type  X <return>  to quit.
 Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
  [19 <./resources/floats/ilustracoes/NBA.jpg>]
-<resources/floats/ilustracoes/arquiteturayolo.png, id=188, 639.89063pt x 162.6075pt>
+<resources/floats/ilustracoes/arquiteturayolo.png, id=142, 639.89063pt x 162.6075pt>
 File: resources/floats/ilustracoes/arquiteturayolo.png Graphic file (type png)
 <use resources/floats/ilustracoes/arquiteturayolo.png>
 Package pdftex.def Info: resources/floats/ilustracoes/arquiteturayolo.png  used on input line 355.
@@ -1681,22 +2435,190 @@ Package pdftex.def Info: resources/floats/ilustracoes/arquiteturayolo.png  used 
 Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
  [20]
-\ut@seccntwidth=\dimen359
-\ut@width=\dimen360
-\ut@seccntwidth=\dimen361
-\ut@width=\dimen362
+\ut@seccntwidth=\dimen353
+\@i=\count585
+
+
+./content/revisao-literatura.tex:363: Class unoesc-thesis Error: O acrônimo yolo não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.363 ...antes de estimação de pose do \ac{yolo}
+                                                   são as ferramentas mais ...
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
+\@i=\count586
+
+./content/revisao-literatura.tex:363: Class unoesc-thesis Error: O acrônimo yolo não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.363 ...antes de estimação de pose do \ac{yolo}
+                                                   são as ferramentas mais ...
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
+\@i=\count587
+
+./content/revisao-literatura.tex:370: Class unoesc-thesis Error: O acrônimo gpu não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.370 ...o hardware disponível, como uma \ac{gpu}
+                                                   NVIDIA. (Ultralytics, 2024).
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
+\@i=\count588
+
+./content/revisao-literatura.tex:370: Class unoesc-thesis Error: O acrônimo gpu não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.370 ...o hardware disponível, como uma \ac{gpu}
+                                                   NVIDIA. (Ultralytics, 2024).
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
+\ut@seccntwidth=\dimen354
+\@i=\count589
+
+./content/revisao-literatura.tex:374: Class unoesc-thesis Error: O acrônimo ml não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.374 ...plicações em ciência de dados, \ac{ml}
+                                                   e \ac{cv}.
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
+\@i=\count590
+
+./content/revisao-literatura.tex:374: Class unoesc-thesis Error: O acrônimo ml não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.374 ...plicações em ciência de dados, \ac{ml}
+                                                   e \ac{cv}.
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
+\@i=\count591
+
+./content/revisao-literatura.tex:374: Class unoesc-thesis Error: O acrônimo cv não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.374 ...s em ciência de dados, \ac{ml} e \ac{cv}
+                                                  .
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
+\@i=\count592
+
+./content/revisao-literatura.tex:374: Class unoesc-thesis Error: O acrônimo cv não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.374 ...s em ciência de dados, \ac{ml} e \ac{cv}
+                                                  .
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
 
 
 
 Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
  [21 <./resources/floats/ilustracoes/arquiteturayolo.png>]
-<resources/floats/ilustracoes/opencv.png, id=214, 499.8675pt x 447.17062pt>
+\@i=\count593
+
+
+./content/revisao-literatura.tex:378: Class unoesc-thesis Error: O acrônimo cv não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.378 No campo da \ac{cv}
+                         , destaca-se a biblioteca \ac{opencv}, que fornece ...
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
+\@i=\count594
+
+./content/revisao-literatura.tex:378: Class unoesc-thesis Error: O acrônimo cv não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.378 No campo da \ac{cv}
+                         , destaca-se a biblioteca \ac{opencv}, que fornece ...
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
+\@i=\count595
+
+./content/revisao-literatura.tex:378: Class unoesc-thesis Error: O acrônimo opencv não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.378 ...{cv}, destaca-se a biblioteca \ac{opencv}
+                                                  , que fornece algoritmos e...
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
+\@i=\count596
+
+./content/revisao-literatura.tex:378: Class unoesc-thesis Error: O acrônimo opencv não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.378 ...{cv}, destaca-se a biblioteca \ac{opencv}
+                                                  , que fornece algoritmos e...
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
+\@i=\count597
+
+./content/revisao-literatura.tex:379: Class unoesc-thesis Error: O acrônimo opencv não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.379 o \ac{opencv}
+                    permite realizar desde operações básicas, como redime...
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
+\@i=\count598
+
+./content/revisao-literatura.tex:379: Class unoesc-thesis Error: O acrônimo opencv não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.379 o \ac{opencv}
+                    permite realizar desde operações básicas, como redime...
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
+<resources/floats/ilustracoes/opencv.png, id=158, 499.8675pt x 447.17062pt>
 File: resources/floats/ilustracoes/opencv.png Graphic file (type png)
 <use resources/floats/ilustracoes/opencv.png>
 Package pdftex.def Info: resources/floats/ilustracoes/opencv.png  used on input line 385.
 (pdftex.def)             Requested size: 273.14923pt x 244.3616pt.
-<resources/floats/ilustracoes/matplotlib.png, id=215, 469.755pt x 568.37344pt>
+<resources/floats/ilustracoes/matplotlib.png, id=159, 469.755pt x 568.37344pt>
 File: resources/floats/ilustracoes/matplotlib.png Graphic file (type png)
 <use resources/floats/ilustracoes/matplotlib.png>
 Package pdftex.def Info: resources/floats/ilustracoes/matplotlib.png  used on input line 394.
@@ -1707,37 +2629,208 @@ Package pdftex.def Info: resources/floats/ilustracoes/matplotlib.png  used on in
 Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
  [22 <./resources/floats/ilustracoes/opencv.png>]
-\ut@seccntwidth=\dimen363
-\ut@seccntwidth=\dimen364
+\ut@seccntwidth=\dimen355
+\@i=\count599
+
+
+./content/revisao-literatura.tex:407: Class unoesc-thesis Error: O acrônimo cv não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.407 ... similares ou pela aplicação da \ac{cv}
+                                                   na análise de movimentos...
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
+\@i=\count600
+
+./content/revisao-literatura.tex:407: Class unoesc-thesis Error: O acrônimo cv não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.407 ... similares ou pela aplicação da \ac{cv}
+                                                   na análise de movimentos...
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
+\ut@seccntwidth=\dimen356
+\@i=\count601
+
+./content/revisao-literatura.tex:411: Class unoesc-thesis Error: O acrônimo cv não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.411 ...ento (2023) propõe um sistema de \ac{cv}
+                                                   que utiliza o algoritmo \...
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
+\@i=\count602
+
+./content/revisao-literatura.tex:411: Class unoesc-thesis Error: O acrônimo cv não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.411 ...ento (2023) propõe um sistema de \ac{cv}
+                                                   que utiliza o algoritmo \...
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
+\@i=\count603
+
+./content/revisao-literatura.tex:411: Class unoesc-thesis Error: O acrônimo yolo não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.411 ...\ac{cv} que utiliza o algoritmo \ac{yolo}
+                                                   para detectar jogadores e...
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
+\@i=\count604
+
+./content/revisao-literatura.tex:411: Class unoesc-thesis Error: O acrônimo yolo não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.411 ...\ac{cv} que utiliza o algoritmo \ac{yolo}
+                                                   para detectar jogadores e...
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
 
 
 
 Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
  [23 <./resources/floats/ilustracoes/matplotlib.png>]
-<resources/floats/ilustracoes/FUTEBOL.jpg, id=235, 1278.7775pt x 591.20876pt>
+<resources/floats/ilustracoes/FUTEBOL.jpg, id=176, 1278.7775pt x 591.20876pt>
 File: resources/floats/ilustracoes/FUTEBOL.jpg Graphic file (type jpg)
 <use resources/floats/ilustracoes/FUTEBOL.jpg>
 Package pdftex.def Info: resources/floats/ilustracoes/FUTEBOL.jpg  used on input line 419.
 (pdftex.def)             Requested size: 218.51521pt x 101.01836pt.
-\ut@seccntwidth=\dimen365
-<resources/floats/ilustracoes/KEYPOINTS.png, id=237, 147.55125pt x 112.16907pt>
+\ut@seccntwidth=\dimen357
+\@i=\count605
+
+
+./content/revisao-literatura.tex:427: Class unoesc-thesis Error: O acrônimo cv não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.427 ...{keypoints} corporais com base em \ac{cv}
+                                                  ,
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
+\@i=\count606
+
+./content/revisao-literatura.tex:427: Class unoesc-thesis Error: O acrônimo cv não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.427 ...{keypoints} corporais com base em \ac{cv}
+                                                  ,
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
+<resources/floats/ilustracoes/KEYPOINTS.png, id=177, 147.55125pt x 112.16907pt>
 File: resources/floats/ilustracoes/KEYPOINTS.png Graphic file (type png)
 <use resources/floats/ilustracoes/KEYPOINTS.png>
 Package pdftex.def Info: resources/floats/ilustracoes/KEYPOINTS.png  used on input line 435.
 (pdftex.def)             Requested size: 163.88815pt x 124.59126pt.
-\ut@seccntwidth=\dimen366
+\ut@seccntwidth=\dimen358
 
 
 
 Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
  [24 <./resources/floats/ilustracoes/FUTEBOL.jpg> <./resources/floats/ilustracoes/KEYPOINTS.png>]
-<resources/floats/ilustracoes/ESQUELETO.png, id=250, 292.09125pt x 135.50626pt>
+\@i=\count607
+
+
+./content/revisao-literatura.tex:443: Class unoesc-thesis Error: O acrônimo cv não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.443 ... análise biomecânica baseada em \ac{cv}
+                                                  .
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
+\@i=\count608
+
+./content/revisao-literatura.tex:443: Class unoesc-thesis Error: O acrônimo cv não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.443 ... análise biomecânica baseada em \ac{cv}
+                                                  .
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
+<resources/floats/ilustracoes/ESQUELETO.png, id=189, 292.09125pt x 135.50626pt>
 File: resources/floats/ilustracoes/ESQUELETO.png Graphic file (type png)
 <use resources/floats/ilustracoes/ESQUELETO.png>
 Package pdftex.def Info: resources/floats/ilustracoes/ESQUELETO.png  used on input line 452.
 (pdftex.def)             Requested size: 218.51521pt x 101.37717pt.
+\@i=\count609
+
+./content/revisao-literatura.tex:460: Class unoesc-thesis Error: O acrônimo cv não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.460 Ambos os estudos demonstram que a \ac{cv}
+                                                pode ser aplicada com sucess...
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
+\@i=\count610
+
+./content/revisao-literatura.tex:460: Class unoesc-thesis Error: O acrônimo cv não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.460 Ambos os estudos demonstram que a \ac{cv}
+                                                pode ser aplicada com sucess...
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
+\@i=\count611
+
+./content/revisao-literatura.tex:486: Class unoesc-thesis Error: O acrônimo yolo não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.486 ...tados, já trabalhos com o tema \ac{yolo}
+                                                   em específico foram mais...
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
+\@i=\count612
+
+./content/revisao-literatura.tex:486: Class unoesc-thesis Error: O acrônimo yolo não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.486 ...tados, já trabalhos com o tema \ac{yolo}
+                                                   em específico foram mais...
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
 
 Overfull \hbox (0.90874pt too wide) in paragraph at lines 490--501
 [][] 
@@ -1754,8 +2847,8 @@ Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
  [26] (./content/procedimentos-metodologicos-tecnicos.tex
-\ut@seccntwidth=\dimen367
-\ut@seccntwidth=\dimen368
+\ut@seccntwidth=\dimen359
+\ut@seccntwidth=\dimen360
 
 
 
@@ -1765,10 +2858,10 @@ Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
 
 ]
-\ut@seccntwidth=\dimen369
-\ut@seccntwidth=\dimen370
-\ut@seccntwidth=\dimen371
-<resources/floats/ilustracoes/cascata.png, id=275, 351.56343pt x 210.7875pt>
+\ut@seccntwidth=\dimen361
+\ut@seccntwidth=\dimen362
+\ut@seccntwidth=\dimen363
+<resources/floats/ilustracoes/cascata.png, id=212, 351.56343pt x 210.7875pt>
 File: resources/floats/ilustracoes/cascata.png Graphic file (type png)
 <use resources/floats/ilustracoes/cascata.png>
 Package pdftex.def Info: resources/floats/ilustracoes/cascata.png  used on input line 55.
@@ -1779,46 +2872,216 @@ Package pdftex.def Info: resources/floats/ilustracoes/cascata.png  used on input
 Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
  [28]
-\ut@seccntwidth=\dimen372
+\ut@seccntwidth=\dimen364
 
 
 
 Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
  [29 <./resources/floats/ilustracoes/cascata.png>]
-\ut@seccntwidth=\dimen373
+\ut@seccntwidth=\dimen365
+\@i=\count613
+
+
+./content/procedimentos-metodologicos-tecnicos.tex:80: Class unoesc-thesis Error: O acrônimo cnn não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.80 ...inição do algoritmo baseado em \acp{cnn}
+                                                  .
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
+\@i=\count614
+
+./content/procedimentos-metodologicos-tecnicos.tex:80: Class unoesc-thesis Error: O acrônimo cnn não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.80 ...inição do algoritmo baseado em \acp{cnn}
+                                                  .
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
+\@i=\count615
+
+./content/procedimentos-metodologicos-tecnicos.tex:83: Class unoesc-thesis Error: O acrônimo fps não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.83 ...MP, que irá gravar em 1080p a 30 \ac{fps}
+                                                  , a câmera será posicion...
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
+\@i=\count616
+
+./content/procedimentos-metodologicos-tecnicos.tex:83: Class unoesc-thesis Error: O acrônimo fps não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.83 ...MP, que irá gravar em 1080p a 30 \ac{fps}
+                                                  , a câmera será posicion...
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
+\@i=\count617
+
+./content/procedimentos-metodologicos-tecnicos.tex:95: Class unoesc-thesis Error: O acrônimo gpu não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.95 ...deração que será utilizada uma \ac{gpu}
+                                                   GeForce GTX 1650 para o p...
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
+\@i=\count618
+
+./content/procedimentos-metodologicos-tecnicos.tex:95: Class unoesc-thesis Error: O acrônimo gpu não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.95 ...deração que será utilizada uma \ac{gpu}
+                                                   GeForce GTX 1650 para o p...
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
 
 
 
 Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
  [30]
-\ut@seccntwidth=\dimen374
+\ut@seccntwidth=\dimen366
+\@i=\count619
+
+
+./content/procedimentos-metodologicos-tecnicos.tex:106: Class unoesc-thesis Error: O acrônimo cv não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.106 ...damentais para treinar modelos de \ac{cv}
+                                                   supervisionados, como o Y...
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
+\@i=\count620
+
+./content/procedimentos-metodologicos-tecnicos.tex:106: Class unoesc-thesis Error: O acrônimo cv não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.106 ...damentais para treinar modelos de \ac{cv}
+                                                   supervisionados, como o Y...
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
+\@i=\count621
+
+./content/procedimentos-metodologicos-tecnicos.tex:107: Class unoesc-thesis Error: O acrônimo yolo não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.107 ...o o formato .txt utilizado pelo \ac{yolo}
+                                                  .
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
+\@i=\count622
+
+./content/procedimentos-metodologicos-tecnicos.tex:107: Class unoesc-thesis Error: O acrônimo yolo não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.107 ...o o formato .txt utilizado pelo \ac{yolo}
+                                                  .
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
+\@i=\count623
+
+./content/procedimentos-metodologicos-tecnicos.tex:110: Class unoesc-thesis Error: O acrônimo gpu não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.110 ...m processador Ryzen 3 3100 e uma \ac{gpu}
+                                                   NVIDIA GTX 1650.
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
+\@i=\count624
+
+./content/procedimentos-metodologicos-tecnicos.tex:110: Class unoesc-thesis Error: O acrônimo gpu não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.110 ...m processador Ryzen 3 3100 e uma \ac{gpu}
+                                                   NVIDIA GTX 1650.
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
+\@i=\count625
+
+./content/procedimentos-metodologicos-tecnicos.tex:119: Class unoesc-thesis Error: O acrônimo opencv não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.119 Serão utilizadas as bibliotecas \ac{opencv}
+                                                   e NumPy para manipulaçã...
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
+\@i=\count626
+
+./content/procedimentos-metodologicos-tecnicos.tex:119: Class unoesc-thesis Error: O acrônimo opencv não foi definido.
+
+See the unoesc-thesis class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.119 Serão utilizadas as bibliotecas \ac{opencv}
+                                                   e NumPy para manipulaçã...
+Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
+
 
 
 
 Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
  [31]
-\ut@seccntwidth=\dimen375
-\ut@seccntwidth=\dimen376
+\ut@seccntwidth=\dimen367
+\ut@seccntwidth=\dimen368
 
 
 
 Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
  [32]
-\ut@seccntwidth=\dimen377
+\ut@seccntwidth=\dimen369
 )
 
 
 Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
  [33] (./content/apresentacao-solucao.tex
-\ut@seccntwidth=\dimen378
-\ut@seccntwidth=\dimen379
-\ut@seccntwidth=\dimen380
-<resources/floats/ilustracoes/arquitetura.png, id=321, 492.33937pt x 176.15813pt>
+\ut@seccntwidth=\dimen370
+\ut@seccntwidth=\dimen371
+\ut@seccntwidth=\dimen372
+<resources/floats/ilustracoes/arquitetura.png, id=250, 492.33937pt x 176.15813pt>
 File: resources/floats/ilustracoes/arquitetura.png Graphic file (type png)
 <use resources/floats/ilustracoes/arquitetura.png>
 Package pdftex.def Info: resources/floats/ilustracoes/arquitetura.png  used on input line 52.
@@ -1832,8 +3095,8 @@ Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
 
 ]
-\ut@seccntwidth=\dimen381
-<resources/floats/ilustracoes/casouso.png, id=333, 523.20468pt x 529.98pt>
+\ut@seccntwidth=\dimen373
+<resources/floats/ilustracoes/casouso.png, id=262, 523.20468pt x 529.98pt>
 File: resources/floats/ilustracoes/casouso.png Graphic file (type png)
 <use resources/floats/ilustracoes/casouso.png>
 Package pdftex.def Info: resources/floats/ilustracoes/casouso.png  used on input line 84.
@@ -1849,15 +3112,15 @@ Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
  [36 <./resources/floats/ilustracoes/casouso.png>]
-\ut@seccntwidth=\dimen382
-\ut@seccntwidth=\dimen383
-<resources/floats/ilustracoes/WIREFRAME1.png, id=350, 770.12718pt x 471.26062pt>
+\ut@seccntwidth=\dimen374
+\ut@seccntwidth=\dimen375
+<resources/floats/ilustracoes/WIREFRAME1.png, id=279, 770.12718pt x 471.26062pt>
 File: resources/floats/ilustracoes/WIREFRAME1.png Graphic file (type png)
 <use resources/floats/ilustracoes/WIREFRAME1.png>
 Package pdftex.def Info: resources/floats/ilustracoes/WIREFRAME1.png  used on input line 113.
 (pdftex.def)             Requested size: 314.11954pt x 192.21138pt.
-\ut@seccntwidth=\dimen384
-<resources/floats/ilustracoes/WIREFRAME2.png, id=351, 770.12718pt x 470.50781pt>
+\ut@seccntwidth=\dimen376
+<resources/floats/ilustracoes/WIREFRAME2.png, id=280, 770.12718pt x 470.50781pt>
 File: resources/floats/ilustracoes/WIREFRAME2.png Graphic file (type png)
 <use resources/floats/ilustracoes/WIREFRAME2.png>
 Package pdftex.def Info: resources/floats/ilustracoes/WIREFRAME2.png  used on input line 127.
@@ -1868,8 +3131,8 @@ Package pdftex.def Info: resources/floats/ilustracoes/WIREFRAME2.png  used on in
 Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
  [37 <./resources/floats/ilustracoes/WIREFRAME1.png>]
-\ut@seccntwidth=\dimen385
-<resources/floats/ilustracoes/WIREFRAME3.png, id=362, 769.37437pt x 475.02469pt>
+\ut@seccntwidth=\dimen377
+<resources/floats/ilustracoes/WIREFRAME3.png, id=292, 769.37437pt x 475.02469pt>
 File: resources/floats/ilustracoes/WIREFRAME3.png Graphic file (type png)
 <use resources/floats/ilustracoes/WIREFRAME3.png>
 Package pdftex.def Info: resources/floats/ilustracoes/WIREFRAME3.png  used on input line 140.
@@ -1944,7 +3207,7 @@ Package rerunfilecheck Warning: File `main.out' has changed.
 
 Package rerunfilecheck Info: Checksums for `main.out':
 (rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  8FF677168A76316D4EF026DF95F5A467;10432.
+(rerunfilecheck)             After:  E7793D1944C2A476AB98C4A0A3ED69F1;10366.
 
 Package biblatex Warning: Please (re)run Biber on the file:
 (biblatex)                main
@@ -1955,42 +3218,18 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 36204 strings out of 467799
- 696702 string characters out of 5436040
- 1628931 words of memory out of 5000000
- 64137 multiletter control sequences out of 15000+600000
+ 35734 strings out of 467799
+ 684839 string characters out of 5436040
+ 1605637 words of memory out of 5000000
+ 63677 multiletter control sequences out of 15000+600000
  656826 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 91i,17n,120p,1234b,2465s stack positions out of 10000i,1000n,20000p,200000b,200000s
-
-pdfTeX warning (dest): name{ut@abreviatura.ml} has been referenced but does not exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{ut@abreviatura.gpu} has been referenced but does not exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{ut@abreviatura.fps} has been referenced but does not exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{ut@abreviatura.yolo} has been referenced but does not exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{ut@abreviatura.opencv} has been referenced but does not exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{ut@abreviatura.cnn} has been referenced but does not exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{ut@abreviatura.ia} has been referenced but does not exist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{ut@abreviatura.cv} has been referenced but does not exist, replaced by a fixed one
-
+ 91i,17n,120p,1267b,2465s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmbx12.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmbxi10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr12.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmri12.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmtt12.pfb>
-Output written on main.pdf (45 pages, 3873641 bytes).
+Output written on main.pdf (45 pages, 3870248 bytes).
 PDF statistics:
- 526 PDF objects out of 1000 (max. 8388607)
- 420 compressed objects within 5 object streams
- 147 named destinations out of 1000 (max. 500000)
+ 453 PDF objects out of 1000 (max. 8388607)
+ 356 compressed objects within 4 object streams
+ 139 named destinations out of 1000 (max. 500000)
  103 words of extra memory for PDF output out of 10000 (max. 10000000)
 

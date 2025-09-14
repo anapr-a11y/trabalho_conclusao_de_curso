@@ -1,11 +1,15 @@
 \capitulo{Introdução}
 \label{cap:introducao}
 
-A utilização da inteligência artificial tem se expandido de maneira significativa em diferentes setores do mercado. As organizações vêm incorporando essas ferramentas tanto em processos internos, 
-visando maior eficiência operacional, quanto em soluções voltadas ao usuário final, proporcionando novas experiências de interação.No contexto de e-commerce, por exemplo, os mecanismos de busca tradicionais, 
-baseados em filtros rígidos, podem se mostrar limitados e pouco intuitivos.
+A utilização da inteligência artificial \ia{IA} vem revolucionado de maneira significativa em diferentes setores do mercado. Desde novembro de 2022, com o lançamento
+do ChatGPT a população teve acesso ao que era exclusivo somenteas pessoas que trabalhavam na área, depois desse episodio, a maneira de pesquisar/buscar mudou completamente de 
+patamar, hoje estudos mostram que o novo formato de interagir com os dados está cada vez mais utilizados e aceito pela geraçãos. 
 
-Nesse cenário, modelos de linguagem de grande escala (LLMs) têm se destacado ao possibilitar a conversão de linguagem natural em consultas estruturadas (text-to-SQL), 
+As organizações vêm incorporando essas ferramentas tanto em processos internos, 
+visando maior eficiência operacional, quanto em soluções voltadas ao usuário final, proporcionando novas experiências de interação.
+No contexto de e-commerce, por exemplo, os mecanismos de busca tradicionais, baseados em filtros rígidos, podem se mostrar limitados e pouco intuitivos.
+
+Nesse cenário, modelos de linguagem de grande escala \llm{LLM} têm se destacado ao possibilitar a conversão de linguagem natural em consultas estruturadas (text-to-SQL), 
 o que favorece buscas mais personalizadas e acessíveis. Essa evolução contribui para a simplificação da experiência do usuário, tornando o processo de encontrar produtos e serviços mais eficiente. 
 
 A empresa Amo Delivery, fundada em 2017 e sediada em Chapecó, consolidou-se como uma plataforma dedicada a melhorar a experiência dos usuários no setor alimentício. 
@@ -16,35 +20,39 @@ Diante desse contexto, o presente trabalho propõe o estudo e na implementação
 O sistema permitirá que os usuários realizem pesquisas em linguagem natural, eliminando a necessidade de filtros rígidos e comandos específicos, ao converter as consultas em 
 linguagem SQL estruturada (text-to-SQL). Dessa forma, o usuário poderá buscar por ofertas de forma intuitiva, utilizando expressões semelhantes à conversação cotidiana.
 
-Além disso, a solução contemplará a integração de recursos de reconhecimento de voz (audio-to-text), possibilitando que as consultas sejam feitas por comandos de voz. Essa funcionalidade
-tem como objetivo ampliar a acessibilidade e proporcionar maior comodidade, permitindo que os usuários interajam com a aplicação em diferentes contextos de uso, como em 
-situações em que a digitação não seja prática.
-
 A implementação dessas funcionalidades no contexto de busca e consulta de ofertas dentro da plataforma Amo Ofertas, 
 não irão contemplar modificações nos processos de pagamento, logística de entrega ou outros módulos já existentes. O foco deste trabalho 
 permanecerá no aprimoramento da experiência de busca do usuário, por meio da aplicação de técnicas de 
 inteligência artificial voltadas à interação natural e personalizada.
 
 
-\secao{Problema de pesquisa e justificativa}
+\secao{Problema e justificativa}
 \label{sec:problema-pesquisa-justificativa}
 
-A análise do desempenho de atletas no basquetebol por meio de \ac{cv} é um campo promissor, 
-pois permite uma avaliação dos movimentos realizados durante o jogo. No entanto, a implementação dessa tecnologia enfrenta desafios, 
-como a captação eficiente dos dados visuais, o processamento das informações e a interpretação precisa dos resultados para oferecer um feedback útil aos atletas e treinadores. 
-Conforme Cabral (2024), a \ac{cv} tem sido amplamente empregada no esporte para melhorar o desempenho dos atletas e apoiar decisões estratégicas, impactando diretamente na performance em quadra.
+A experiência do usuário em plataformas de e-commerce está diretamente relacionada à sua capacidade de 
+encontrar, de forma rápida e intuitiva, os produtos que deseja. Com o avanço da tecnologia, o uso de
+ modelos de linguagem natural \lmm{LLMS} tornou-se uma tendência crescente, oferecendo interações mais 
+ inteligentes e próximas da linguagem cotidiana dos consumidores. Estudos indicam que a eficácia 
+ dos mecanismos de busca em plataformas digitais impacta de maneira significativa tanto a satisfação 
+ do usuário quanto a concretização das vendas (JANSEN; MOLINA, 2006).
 
-O problema central desta pesquisa reside na necessidade de um protótipo de \ac{cv} para a análise biomecânica do arremesso no basquetebol, 
-especialmente voltado para um time amador que compete regionalmente. A maior parte dos estudos atuais foca em atletas de alto rendimento, 
-deixando lacunas para o desenvolvimento de tecnologias aplicáveis a contextos não profissionais. 
-Segundo Souza (2023), há uma carência de estudos que abordem a inserção tecnológica no esporte de maneira acessível, 
-especialmente no Brasil, onde ainda existem barreiras como desigualdade e falta de recursos.
+Empresas consolidadas, como Google, Nubank e C6 Bank, já incorporam tecnologias de processamento de 
+linguagem natural \pln{PLN} em seus serviços, elevando o nível da experiência do usuário. 
+No setor de e-commerce, organizações como Amazon, Shopify e iFood vêm explorando recursos de 
+aprendizado de máquina (do inglês ,Machine Learning \ml{ML}) para tornar a busca mais personalizada e acessível, permitindo que 
+os usuários encontrem produtos de forma simples e eficiente.
 
-A implementação de uma ferramenta baseada em \ac{cv} poderá auxiliar treinadores e jogadores a compreender melhor os erros e acertos no movimento de arremesso, 
-auxiliando na correção da angulação corporal e do braço do atleta, e também na velocidade do arremesso, contribuindo para um maior aproveitamento de cestas, consequentemente, 
-aprimorando também o desempenho esportivo. Além disso, Cabral (2024) destaca que modelos de deep learning podem ser empregados para o reconhecimento automático de padrões de movimento, 
-permitindo uma análise detalhada e precisa dos gestos esportivos.
+Apesar do crescimento do comércio eletrônico e da evolução dos sistemas de busca baseados em 
+\ia{IA}, muitos aplicativos ainda oferecem experiências limitadas ao usuário, especialmente em relação à forma de localizar produtos. Os filtros
+de pesquisa são essencias para permitir que o usuario localize oque deseja com base me criterios especificos para sua solicitação
+como, o preço, igredienete , distancia, entre outros atributos. 
 
+O aplicativo AMO Ofertas é utiliza filtros rígidos e pouco flexíveis, 
+o que compromete a experiência do usuário e pode limitar sua competitividade no mercado. 
+Diante disso, este trabalho justifica-se pela necessidade de implementar um modelo de 
+linguagem natural que permita buscas mais inteligentes e personalizadas, ampliando a 
+satisfação do consumidor, fortalecendo a posição da empresa no setor e possibilitando uma 
+concorrência mais equilibrada com players de maior porte.
 
 
 \secao{Objetivos}
@@ -54,7 +62,9 @@ Nesta seção serão abordados os objetivos gerais e específicos a serem buscad
 \subsecao{Objetivo geral}
 \label{ssec:objetivo-geral}
 
-Desenvolver um protótipo baseado em visão computacional para analisar biomecanicamente o arremesso no basquetebol, com o objetivo de fornecer correções técnicas do gesto esportivo.
+Implementar e avaliar um modelo de linguagem natural /lmm{LLM} no aplicativo AMO Ofertas, com o propósito de 
+aprimorar o mecanismo de busca, tornando-o mais intuitivo e eficiente, de modo a melhorar 
+a experiência do usuário e aumentar a competitividade da plataforma no mercado de e-commerce.
 
 \subsecao{Objetivos específicos}
 \label{ssec:objetivos-especificos}
@@ -62,15 +72,20 @@ Desenvolver um protótipo baseado em visão computacional para analisar biomecan
 Os objetivos específicos do projeto seguem a ordem cronológica de execução das atividades, conforme descrito a seguir:
 
 \begin{myitemize}
-    \item Capturar vídeos de arremessos realizados por atletas da linha de lance livre, com ângulos adequados para a análise biomecânica.
+    \item Estudar a estrutura do sistema de busca existente e documentar as limitações dos filtros rígidos atualmente oferecidos no sistema Amo Ofertas.
     
-    \item Importar os vídeos capturados para o sistema e aplicar técnicas de visão computacional para detectar os pontos corporais do atleta, com ênfase no braço de arremesso, utilizando o modelo yolo.
-
-    \item Calcular os ângulos articulares e parâmetros cinemáticos com base nos pontos detectados.
-
-    \item Comparar os dados extraídos com parâmetros biomecânicos de referência previamente definidos.
-
-    \item Integrar os resultados a uma interface simples e intuitiva, permitindo a visualização e interpretação dos dados obtidos.
-
-    \item Identificar diferenças técnicas entre os arremessos analisados e o modelo ideal, sugerindo correções técnicas com base no feedback automático do sistema.
+    \item Coletar logs/chaves de pesquisas realizadas no aplicativo ou aplicar questionários/testes com usuários para identificar 
+    padrões de busca, como termos mais usados, erros frequentes afim de analisar dados de busca dos usuários.
+      
+    \item Realizar um estudo comparativo de desempenho dos modelos de linguagem natural, requisitos computacionais e aderência ao português, 
+     justificando a escolha do modelo mais adequado para o contexto da Amo Ofertas.
+    
+    \item Implementar uma versão experimental em ambiente controlado (Sandbox) para realizar testes isolada para treinar e validar o modelo escolhido,
+      simulando consultas reais de usuários.
+    
+    \item Treinar e ajustar o modelo para o domínio do e-commerce da Amo Ofertas afim de melhorar a relevância e precisão das respostas de busca.
+    
+    \item Implementar o protótipo dentro do aplicativo, disponibilizar a busca inteligente para um grupo de usuários-teste e coletar feedback qualitativo e quantitativo.
+    
+    \item Medir métricas como precisão das buscas, tempo médio para encontrar produtos, satisfação do usuário e comparar com o sistema de busca anterior.
 \end{myitemize}

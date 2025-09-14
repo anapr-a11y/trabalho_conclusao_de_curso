@@ -1,6 +1,6 @@
 \contentsline {ut@capitulo}{1\nobreakspace Introdução}{3}{ut@capitulo.1}%
-\contentsline {ut@secao}{1.1\nobreakspace Problema de pesquisa e justificativa}{4}{ut@secao.1.1}%
-\contentsline {ut@secao}{1.2\nobreakspace Objetivos}{4}{ut@secao.1.2}%
+\contentsline {ut@secao}{1.1\nobreakspace Problema e justificativa}{4}{ut@secao.1.1}%
+\contentsline {ut@secao}{1.2\nobreakspace Objetivos}{5}{ut@secao.1.2}%
 \contentsline {ut@subsecao}{1.2.1\nobreakspace Objetivo geral}{5}{ut@subsecao.1.2.1}%
 \contentsline {ut@subsecao}{1.2.2\nobreakspace Objetivos específicos}{5}{ut@subsecao.1.2.2}%
 \contentsline {ut@capitulo}{2\nobreakspace Revisão da literatura}{6}{ut@capitulo.2}%
