@@ -1,44 +1,44 @@
-\contentsline {ut@capitulo}{1\nobreakspace Introdução}{3}{ut@capitulo.1}%
-\contentsline {ut@secao}{1.1\nobreakspace Problema e justificativa}{4}{ut@secao.1.1}%
-\contentsline {ut@secao}{1.2\nobreakspace Objetivos}{5}{ut@secao.1.2}%
-\contentsline {ut@subsecao}{1.2.1\nobreakspace Objetivo geral}{5}{ut@subsecao.1.2.1}%
-\contentsline {ut@subsecao}{1.2.2\nobreakspace Objetivos específicos}{5}{ut@subsecao.1.2.2}%
-\contentsline {ut@capitulo}{2\nobreakspace Revisão da literatura}{6}{ut@capitulo.2}%
-\contentsline {ut@secao}{2.1\nobreakspace Basquetebol}{6}{ut@secao.2.1}%
-\contentsline {ut@secao}{2.2\nobreakspace Análise de Desempenho Esportivo}{7}{ut@secao.2.2}%
-\contentsline {ut@subsecao}{2.2.1\nobreakspace Análise de Desempenho no Basquetebol}{7}{ut@subsecao.2.2.1}%
-\contentsline {ut@secao}{2.3\nobreakspace Biomecânica}{9}{ut@secao.2.3}%
-\contentsline {ut@subsecao}{2.3.1\nobreakspace Biomecânica no Basquetebol}{10}{ut@subsecao.2.3.1}%
-\contentsline {ut@secao}{2.4\nobreakspace Visão computacional}{12}{ut@secao.2.4}%
-\contentsline {ut@subsecao}{2.4.1\nobreakspace Visão computacional no basquete}{12}{ut@subsecao.2.4.1}%
-\contentsline {ut@subsecao}{2.4.2\nobreakspace Processamento de Imagens}{14}{ut@subsecao.2.4.2}%
-\contentsline {ut@secao}{2.5\nobreakspace Modelos de Detecção de Poses e Estrutura Corporal}{16}{ut@secao.2.5}%
-\contentsline {ut@secao}{2.6\nobreakspace Redes Neurais Convolucionais}{16}{ut@secao.2.6}%
-\contentsline {ut@subsecao}{2.6.1\nobreakspace YOLO (You Only Look Once)}{18}{ut@subsecao.2.6.1}%
-\contentsline {ut@subsubsecao}{2.6.1.1\nobreakspace Evolução das Versões do YOLO}{19}{ut@subsubsecao.2.6.1.1}%
-\contentsline {ut@subsubsecao}{2.6.1.2\nobreakspace YOLO-Pose para Análise de Keypoints}{21}{ut@subsubsecao.2.6.1.2}%
-\contentsline {ut@secao}{2.7\nobreakspace Python e suas Bibliotecas para Visão Computacional}{21}{ut@secao.2.7}%
-\contentsline {ut@secao}{2.8\nobreakspace TRABALHOS RELACIONADOS}{23}{ut@secao.2.8}%
-\contentsline {ut@subsecao}{2.8.1\nobreakspace Geração de Informações Estratégicas para Clubes de Futebol (Nascimento, 2023)}{23}{ut@subsecao.2.8.1}%
-\contentsline {ut@subsecao}{2.8.2\nobreakspace Classificação de Golpes de Karate (Teixeira, 2024)}{24}{ut@subsecao.2.8.2}%
-\contentsline {ut@subsecao}{2.8.3\nobreakspace Biomechanical Analysis of Shooting Performance (Pan et al., 2021)}{25}{ut@subsecao.2.8.3}%
-\contentsline {ut@capitulo}{3\nobreakspace Procedimentos metodológicos e técnicos}{27}{ut@capitulo.3}%
-\contentsline {ut@secao}{3.1\nobreakspace Caracterização da metodologia de pesquisa}{27}{ut@secao.3.1}%
-\contentsline {ut@secao}{3.2\nobreakspace Questões de Pesquisa}{28}{ut@secao.3.2}%
-\contentsline {ut@secao}{3.3\nobreakspace Aplicação da metodologia}{28}{ut@secao.3.3}%
-\contentsline {ut@subsecao}{3.3.1\nobreakspace Desenvolvimento da solução proposta na prática}{28}{ut@subsecao.3.3.1}%
-\contentsline {ut@subsubsecao}{3.3.1.1\nobreakspace Definição de Requisitos}{29}{ut@subsubsecao.3.3.1.1}%
-\contentsline {ut@subsubsecao}{3.3.1.2\nobreakspace Projeto de Sistema e Software}{30}{ut@subsubsecao.3.3.1.2}%
-\contentsline {ut@subsubsecao}{3.3.1.3\nobreakspace Fase de Implementação}{31}{ut@subsubsecao.3.3.1.3}%
-\contentsline {ut@subsubsecao}{3.3.1.4\nobreakspace Fase de integração e testes}{32}{ut@subsubsecao.3.3.1.4}%
-\contentsline {ut@subsubsecao}{3.3.1.5\nobreakspace Operação e manutenção}{32}{ut@subsubsecao.3.3.1.5}%
-\contentsline {ut@subsecao}{3.3.2\nobreakspace População e Amostra}{33}{ut@subsecao.3.3.2}%
-\contentsline {ut@capitulo}{4\nobreakspace Apresentação da solução}{34}{ut@capitulo.4}%
-\contentsline {ut@secao}{4.1\nobreakspace Requisitos do Sistema}{34}{ut@secao.4.1}%
-\contentsline {ut@secao}{4.2\nobreakspace Fluxograma da Arquitetura do Projeto}{34}{ut@secao.4.2}%
-\contentsline {ut@secao}{4.3\nobreakspace Diagrama de Caso de Uso}{35}{ut@secao.4.3}%
-\contentsline {ut@secao}{4.4\nobreakspace Wireframes}{37}{ut@secao.4.4}%
-\contentsline {ut@subsecao}{4.4.1\nobreakspace Wireframe 1}{37}{ut@subsecao.4.4.1}%
-\contentsline {ut@subsecao}{4.4.2\nobreakspace Wireframe 2}{37}{ut@subsecao.4.4.2}%
-\contentsline {ut@subsecao}{4.4.3\nobreakspace Wireframe 3}{38}{ut@subsecao.4.4.3}%
-\contentsline {ut@capitulo}{Referências}{40}{cap:referencias}%
+\contentsline {ut@capitulo}{1\nobreakspace Introdução}{6}{ut@capitulo.1}%
+\contentsline {ut@secao}{1.1\nobreakspace Problema e justificativa}{7}{ut@secao.1.1}%
+\contentsline {ut@secao}{1.2\nobreakspace Objetivos}{8}{ut@secao.1.2}%
+\contentsline {ut@subsecao}{1.2.1\nobreakspace Objetivo geral}{8}{ut@subsecao.1.2.1}%
+\contentsline {ut@subsecao}{1.2.2\nobreakspace Objetivos específicos}{8}{ut@subsecao.1.2.2}%
+\contentsline {ut@capitulo}{2\nobreakspace Revisão da literatura}{9}{ut@capitulo.2}%
+\contentsline {ut@secao}{2.1\nobreakspace Basquetebol}{9}{ut@secao.2.1}%
+\contentsline {ut@secao}{2.2\nobreakspace Análise de Desempenho Esportivo}{10}{ut@secao.2.2}%
+\contentsline {ut@subsecao}{2.2.1\nobreakspace Análise de Desempenho no Basquetebol}{10}{ut@subsecao.2.2.1}%
+\contentsline {ut@secao}{2.3\nobreakspace Biomecânica}{12}{ut@secao.2.3}%
+\contentsline {ut@subsecao}{2.3.1\nobreakspace Biomecânica no Basquetebol}{13}{ut@subsecao.2.3.1}%
+\contentsline {ut@secao}{2.4\nobreakspace Visão computacional}{15}{ut@secao.2.4}%
+\contentsline {ut@subsecao}{2.4.1\nobreakspace Visão computacional no basquete}{15}{ut@subsecao.2.4.1}%
+\contentsline {ut@subsecao}{2.4.2\nobreakspace Processamento de Imagens}{17}{ut@subsecao.2.4.2}%
+\contentsline {ut@secao}{2.5\nobreakspace Modelos de Detecção de Poses e Estrutura Corporal}{19}{ut@secao.2.5}%
+\contentsline {ut@secao}{2.6\nobreakspace Redes Neurais Convolucionais}{19}{ut@secao.2.6}%
+\contentsline {ut@subsecao}{2.6.1\nobreakspace YOLO (You Only Look Once)}{21}{ut@subsecao.2.6.1}%
+\contentsline {ut@subsubsecao}{2.6.1.1\nobreakspace Evolução das Versões do YOLO}{22}{ut@subsubsecao.2.6.1.1}%
+\contentsline {ut@subsubsecao}{2.6.1.2\nobreakspace YOLO-Pose para Análise de Keypoints}{24}{ut@subsubsecao.2.6.1.2}%
+\contentsline {ut@secao}{2.7\nobreakspace Python e suas Bibliotecas para Visão Computacional}{24}{ut@secao.2.7}%
+\contentsline {ut@secao}{2.8\nobreakspace TRABALHOS RELACIONADOS}{26}{ut@secao.2.8}%
+\contentsline {ut@subsecao}{2.8.1\nobreakspace Geração de Informações Estratégicas para Clubes de Futebol (Nascimento, 2023)}{26}{ut@subsecao.2.8.1}%
+\contentsline {ut@subsecao}{2.8.2\nobreakspace Classificação de Golpes de Karate (Teixeira, 2024)}{27}{ut@subsecao.2.8.2}%
+\contentsline {ut@subsecao}{2.8.3\nobreakspace Biomechanical Analysis of Shooting Performance (Pan et al., 2021)}{28}{ut@subsecao.2.8.3}%
+\contentsline {ut@capitulo}{3\nobreakspace Procedimentos metodológicos e técnicos}{30}{ut@capitulo.3}%
+\contentsline {ut@secao}{3.1\nobreakspace Caracterização da metodologia de pesquisa}{30}{ut@secao.3.1}%
+\contentsline {ut@secao}{3.2\nobreakspace Questões de Pesquisa}{31}{ut@secao.3.2}%
+\contentsline {ut@secao}{3.3\nobreakspace Aplicação da metodologia}{31}{ut@secao.3.3}%
+\contentsline {ut@subsecao}{3.3.1\nobreakspace Desenvolvimento da solução proposta na prática}{31}{ut@subsecao.3.3.1}%
+\contentsline {ut@subsubsecao}{3.3.1.1\nobreakspace Definição de Requisitos}{32}{ut@subsubsecao.3.3.1.1}%
+\contentsline {ut@subsubsecao}{3.3.1.2\nobreakspace Projeto de Sistema e Software}{33}{ut@subsubsecao.3.3.1.2}%
+\contentsline {ut@subsubsecao}{3.3.1.3\nobreakspace Fase de Implementação}{34}{ut@subsubsecao.3.3.1.3}%
+\contentsline {ut@subsubsecao}{3.3.1.4\nobreakspace Fase de integração e testes}{35}{ut@subsubsecao.3.3.1.4}%
+\contentsline {ut@subsubsecao}{3.3.1.5\nobreakspace Operação e manutenção}{35}{ut@subsubsecao.3.3.1.5}%
+\contentsline {ut@subsecao}{3.3.2\nobreakspace População e Amostra}{36}{ut@subsecao.3.3.2}%
+\contentsline {ut@capitulo}{4\nobreakspace Apresentação da solução}{37}{ut@capitulo.4}%
+\contentsline {ut@secao}{4.1\nobreakspace Requisitos do Sistema}{37}{ut@secao.4.1}%
+\contentsline {ut@secao}{4.2\nobreakspace Fluxograma da Arquitetura do Projeto}{37}{ut@secao.4.2}%
+\contentsline {ut@secao}{4.3\nobreakspace Diagrama de Caso de Uso}{38}{ut@secao.4.3}%
+\contentsline {ut@secao}{4.4\nobreakspace Wireframes}{40}{ut@secao.4.4}%
+\contentsline {ut@subsecao}{4.4.1\nobreakspace Wireframe 1}{40}{ut@subsecao.4.4.1}%
+\contentsline {ut@subsecao}{4.4.2\nobreakspace Wireframe 2}{40}{ut@subsecao.4.4.2}%
+\contentsline {ut@subsecao}{4.4.3\nobreakspace Wireframe 3}{41}{ut@subsecao.4.4.3}%
+\contentsline {ut@capitulo}{Referências}{43}{cap:referencias}%

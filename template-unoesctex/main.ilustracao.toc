@@ -1,0 +1,18 @@
+\contentsline {ut@ilustracao}{Ilustração\nobreakspace 1\nobreakspace \textendash \nobreakspace Interface do aplicativo Basketball Stats Assistant, utilizado na análise de desempenho em tempo real}{11}{ut@ilustracao.1}%
+\contentsline {ut@ilustracao}{Ilustração\nobreakspace 2\nobreakspace \textendash \nobreakspace Modelo biomecânico utilizado na análise do arremesso no basquetebol}{14}{ut@ilustracao.2}%
+\contentsline {ut@ilustracao}{Ilustração\nobreakspace 3\nobreakspace \textendash \nobreakspace Hardware usado para a captação de arremessos}{16}{ut@ilustracao.3}%
+\contentsline {ut@ilustracao}{Ilustração\nobreakspace 4\nobreakspace \textendash \nobreakspace Aplicativo do Noah Basketball}{17}{ut@ilustracao.4}%
+\contentsline {ut@ilustracao}{Ilustração\nobreakspace 5\nobreakspace \textendash \nobreakspace Correção de contraste com OpenCV}{18}{ut@ilustracao.5}%
+\contentsline {ut@ilustracao}{Ilustração\nobreakspace 6\nobreakspace \textendash \nobreakspace Uso da YOLO em partidas da NBA}{22}{ut@ilustracao.6}%
+\contentsline {ut@ilustracao}{Ilustração\nobreakspace 7\nobreakspace \textendash \nobreakspace Arquitetura da YOLOv8 simplificada}{24}{ut@ilustracao.7}%
+\contentsline {ut@ilustracao}{Ilustração\nobreakspace 8\nobreakspace \textendash \nobreakspace Uso da biblioteca OpenCV e Matplotlib no Google Colab}{25}{ut@ilustracao.8}%
+\contentsline {ut@ilustracao}{Ilustração\nobreakspace 9\nobreakspace \textendash \nobreakspace Uso da biblioteca Matplotlib}{26}{ut@ilustracao.9}%
+\contentsline {ut@ilustracao}{Ilustração\nobreakspace 10\nobreakspace \textendash \nobreakspace Detecção de jogadores em campo utilizando YOLO}{27}{ut@ilustracao.10}%
+\contentsline {ut@ilustracao}{Ilustração\nobreakspace 11\nobreakspace \textendash \nobreakspace Detecção de \textit {keypoints} durante execução de golpes}{27}{ut@ilustracao.11}%
+\contentsline {ut@ilustracao}{Ilustração\nobreakspace 12\nobreakspace \textendash \nobreakspace Modelo esquelético utilizado para análise biomecânica}{28}{ut@ilustracao.12}%
+\contentsline {ut@ilustracao}{Ilustração\nobreakspace 13\nobreakspace \textendash \nobreakspace Modelo Cascata}{32}{ut@ilustracao.13}%
+\contentsline {ut@ilustracao}{Ilustração\nobreakspace 14\nobreakspace \textendash \nobreakspace Fluxograma da arquitetura do projeto}{38}{ut@ilustracao.14}%
+\contentsline {ut@ilustracao}{Ilustração\nobreakspace 15\nobreakspace \textendash \nobreakspace Diagrama de Caso de Uso}{39}{ut@ilustracao.15}%
+\contentsline {ut@ilustracao}{Ilustração\nobreakspace 16\nobreakspace \textendash \nobreakspace Wireframe 1}{40}{ut@ilustracao.16}%
+\contentsline {ut@ilustracao}{Ilustração\nobreakspace 17\nobreakspace \textendash \nobreakspace Wireframe 2}{41}{ut@ilustracao.17}%
+\contentsline {ut@ilustracao}{Ilustração\nobreakspace 18\nobreakspace \textendash \nobreakspace Wireframe 3}{41}{ut@ilustracao.18}%
