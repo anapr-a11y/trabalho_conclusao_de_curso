@@ -1,6 +1,0 @@
-\contentsline {ut@tabela}{Tabela\nobreakspace 1\nobreakspace \textendash \nobreakspace Comparação entre modelos de detecção de pose corporal}{20}{ut@tabela.1}%
-\contentsline {ut@tabela}{Tabela\nobreakspace 2\nobreakspace \textendash \nobreakspace Comparativo entre as Principais Versões do YOLO (Ultralytics).}{23}{ut@tabela.2}%
-\contentsline {ut@tabela}{Tabela\nobreakspace 3\nobreakspace \textendash \nobreakspace Trabalhos Relacionados}{29}{ut@tabela.3}%
-\contentsline {ut@tabela}{Tabela\nobreakspace 4\nobreakspace \textendash \nobreakspace Resultados das pesquisas por termos no título de artigos}{29}{ut@tabela.4}%
-\contentsline {ut@tabela}{Tabela\nobreakspace 5\nobreakspace \textendash \nobreakspace Requisitos funcionais do sistema computacional}{37}{ut@tabela.5}%
-\contentsline {ut@tabela}{Tabela\nobreakspace 6\nobreakspace \textendash \nobreakspace Requisitos não funcionais do sistema computacional}{37}{ut@tabela.6}%

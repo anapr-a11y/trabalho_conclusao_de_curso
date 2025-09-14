@@ -75,52 +75,8 @@ Essa abordagem permitirá captar informações sobre as necessidades práticas d
 \subsubsecao{Projeto de Sistema e Software}
 \label{sssec:proj-sistema}
 
-A fase de projeto de sistema e software visa transformar os requisitos previamente definidos em uma arquitetura viável para implementação. 
-De acordo com Sommerville (2011), o projeto de software é o processo de definir a arquitetura, os componentes e suas interfaces, garantindo que o sistema satisfaça os requisitos especificados. 
-Neste projeto, essa etapa se desdobra em três frentes principais: a coleta das imagens, o pré-processamento com técnicas de normalização e data augmentation, e a definição do algoritmo baseado em \acp{cnn}.
-
-A coleta de imagens será feita por meio da captura de vídeos durante treinos e jogos da equipe, com posterior extração de quadros (frames) relevantes utilizando ferramentas de segmentação automática. 
-As filmagens serão feitas com um celular POCO X6 PRO, tendo em sua câmera principal um sensor de 64MP, que irá gravar em 1080p a 30 \ac{fps}, a câmera será posicionada de forma estratégica para capturar os arremessos com clareza, 
-priorizando ângulos laterais e frontais. 
-A curadoria dessas imagens será feita manualmente para garantir que apenas imagens úteis ao treinamento do modelo sejam utilizadas.
-
-O processamento das imagens incluirá ajustes de tamanho (redimensionamento), conversão para escala de cinza quando apropriado, 
-normalização dos valores de pixel (entre 0 e 1) e remoção de ruídos. 
-Para ampliar a base de dados, serão aplicadas técnicas de data augmentation, como rotações, mudanças de brilho e reflexões horizontais, 
-conforme sugerido por Sommerville (2011) ao destacar que a reutilização de componentes e técnicas pode melhorar a confiabilidade do software e reduzir custos de desenvolvimento.
-
-A definição do algoritmo será baseada na arquitetura da YOLOv8s-pose, que é uma abordagem de detecção de objetos em tempo real, focada principalmente na detecção de pontos de referência no corpo humano em computadores com restrições de recursos. 
-A YOLOv8s-pose utiliza como backbone uma versão aprimorada do CSPDarknet, com um neck baseado no PANet e um head adaptado para múltiplas detecções em diferentes escalas. 
-Essa arquitetura é ideal para aplicações como a deste projeto, que exige velocidade e precisão ao identificar arremessos de basquete em imagens. 
-A YOLOv8s-pose apresenta desempenho competitivo mesmo em hardwares com restrições de recursos, e por esse motivo foi escolhida para este fojeto, levando em consideração que será utilizada uma \ac{gpu} GeForce GTX 1650 para o processamento das imagens.
-
 \subsubsecao{Fase de Implementação}
 \label{sssec:implementação}
-
-
-A fase de implementação representa o momento em que as decisões definidas nas etapas de projeto e análise se concretizam na construção prática do sistema. 
-Segundo Sommerville (2011), essa etapa está diretamente relacionada à transformação dos modelos em código executável, respeitando os padrões estabelecidos e validando o funcionamento do sistema como um todo. 
-
-O treinamento do modelo será realizado a partir das imagens que forem previamente coletadas e anotadas com o auxílio da ferramenta LabelImg. 
-Trata-se de uma aplicação gráfica de código aberto, escrita em Python, que permite a marcação manual de regiões de interesse por meio de caixas delimitadoras. 
-Essas anotações são fundamentais para treinar modelos de \ac{cv} supervisionados, como o YOLOv8s-pose, pois indicam a localização e a classe dos objetos presentes nas imagens. 
-O LabelImg possibilita salvar as anotações em formatos compatíveis com diversos frameworks, incluindo o formato .txt utilizado pelo \ac{yolo}. 
-Por meio dessa ferramenta, será possível rotular elementos importantes para o trabalho, como a bola de basquete e os segmentos corporais do atleta.
-
-Serão definidos hiperparâmetros iniciais com base em experimentação e na capacidade do hardware disponível, composto por um processador Ryzen 3 3100 e uma \ac{gpu} NVIDIA GTX 1650. 
-Espera-se utilizar uma taxa de aprendizado de 0{,}001, com 100 épocas de treinamento e tamanho de lote de 16 imagens. 
-Para evitar o sobreajuste e promover uma boa generalização do modelo, será aplicada validação cruzada no formato hold-out, com 80\% dos dados destinados ao treinamento e 20\% à validação.
-
-Durante o processo, também serão aplicadas técnicas de aumento de dados, como espelhamento horizontal, ajustes de brilho e rotação. 
-Isso permitirá expandir a variabilidade do conjunto de dados sem a necessidade de novas coletas, o que é particularmente importante em projetos com volume limitado de amostras. 
-A avaliação do modelo será conduzida utilizando métricas como precisão, revocação, F1-score e média da precisão média (mean Average Precision - mAP), fornecendo uma visão da eficácia da solução e orientando eventuais ajustes futuros.
-
-A linguagem de programação escolhida para o desenvolvimento é Python. 
-Serão utilizadas as bibliotecas \ac{opencv} e NumPy para manipulação e processamento das imagens, além do framework PyTorch para o uso da YOLOv8s-pose. 
-A programação será conduzida na IDE VS Code, que permite integração com ferramentas de versionamento e ambientes virtuais.
-
-O repositório da aplicação será controlado via Git e hospedado no GitHub, garantindo controle de versão, rastreabilidade de mudanças e backup do progresso. 
-Isso também permitirá a integração com pipelines de entrega contínua futuramente, caso a aplicação seja expandida.
 
 \subsubsecao{Fase de integração e testes}
 \label{sssec:testes}

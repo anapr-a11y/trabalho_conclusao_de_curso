@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.8.30)  14 SEP 2025 15:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.8.30)  14 SEP 2025 15:25
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1085,10 +1085,8 @@ File: csquotes.cfg
 LaTeX Font Info:    Trying to load font information for T1+lmr on input line 28.
  (c:/texlive/2025/texmf-dist/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-) (./main.aux
-Package babel Info: 'brazilian' activates 'portuges' shorthands.
-(babel)             Reported on input line 26.
 )
+No file main.aux.
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
@@ -1109,7 +1107,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 28.
 LaTeX Font Info:    ... okay on input line 28.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 28.
 LaTeX Font Info:    ... okay on input line 28.
- (c:/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+(c:/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 \scratchcounter=\count520
 \scratchdimen=\dimen333
 \scratchbox=\box73
@@ -1127,6 +1125,8 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (c:/texlive/2025/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
+Package babel Info: 'brazilian' activates 'portuges' shorthands.
+(babel)             Reported on input line 28.
 Package biblatex Info: Trying to load language 'brazilian' -> 'brazilian-abnt'...
 Package biblatex Info: ... file 'brazilian-abnt.lbx' found.
  (c:/texlive/2025/texmf-dist/tex/latex/biblatex-abnt/brazilian-abnt.lbx
@@ -1157,67 +1157,47 @@ Package biblatex Info: ... file 'main.bbl' found.
 Package biblatex Info: Reference section=0 on input line 28.
 Package biblatex Info: Reference segment=0 on input line 28.
 Package hyperref Info: Link coloring OFF on input line 28.
- (./main.out) (./main.out)
 \@outlinefile=\write5
 \openout5 = `main.out'.
 
 
 
-[0{c:/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}] (./main.coautor.toc)
+[0{c:/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}]
+No file main.\ext@ut@coautor .
 \tf@coautor.toc=\write6
 \openout6 = `main.coautor.toc'.
 
 \@i=\count526
- (./main.ilustracao.lst.toc
+No file main.\ext@ut@float@ilustracao .
+\tf@ilustracao.lst.toc=\write7
+\openout7 = `main.ilustracao.lst.toc'.
+
+No file main.\ext@ut@float@quadro .
+\tf@quadro.lst.toc=\write8
+\openout8 = `main.quadro.lst.toc'.
+
+No file main.\ext@ut@float@tabela .
+\tf@tabela.lst.toc=\write9
+\openout9 = `main.tabela.lst.toc'.
+
+No file main.\ext@ut@acronym@acronimo .
+\tf@acronimo.lst.toc=\write10
+\openout10 = `main.acronimo.lst.toc'.
+
+
 
 [1
 
-] (./main.ilustracao.toc)
-\tf@ilustracao.toc=\write7
-\openout7 = `main.ilustracao.toc'.
+]
+No file main.\ext@ut@sumario .
+\tf@sumario.toc=\write11
+\openout11 = `main.sumario.toc'.
 
 
 
 [2
 
-
-])
-\tf@ilustracao.lst.toc=\write8
-\openout8 = `main.ilustracao.lst.toc'.
-
- (./main.quadro.lst.toc)
-\tf@quadro.lst.toc=\write9
-\openout9 = `main.quadro.lst.toc'.
-
- (./main.tabela.lst.toc (./main.tabela.toc)
-\tf@tabela.toc=\write10
-\openout10 = `main.tabela.toc'.
-
-
-
-[3
-
-
-])
-\tf@tabela.lst.toc=\write11
-\openout11 = `main.tabela.lst.toc'.
-
- (./main.acronimo.lst.toc)
-\tf@acronimo.lst.toc=\write12
-\openout12 = `main.acronimo.lst.toc'.
-
- (./main.sumario.toc
-
-[4
-
-
-])
-\tf@sumario.toc=\write13
-\openout13 = `main.sumario.toc'.
-
-
-
-[5]
+]
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: End \AtBeginDocument code.
@@ -1247,7 +1227,7 @@ and I'll forget about whatever was undefined.
 
 Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
- [6
+ [3
 
 
 
@@ -1296,7 +1276,7 @@ and I'll forget about whatever was undefined.
 
 Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
- [7]
+ [4]
 \ut@seccntwidth=\dimen338
 \ut@seccntwidth=\dimen339
 LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 74.
@@ -1307,7 +1287,7 @@ File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 
 Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
- [8{c:/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}] (./content/revisao-literatura.tex
+ [5{c:/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}] (./content/revisao-literatura.tex
 \ut@seccntwidth=\dimen340
 \ut@seccntwidth=\dimen341
 \ut@seccntwidth=\dimen342
@@ -1316,7 +1296,7 @@ Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
 Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
- [9
+ [6
 
 
 ]
@@ -1326,9 +1306,9 @@ Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
 Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
- [10]
-Package hyperref Info: bookmark level for unknown ut@ilustracao defaults to 0 on input line 59.
-<resources/floats/ilustracoes/desempenho.png, id=350, 1053.9375pt x 508.90125pt>
+ [7]
+Package hyperref Info: bookmark level for unknown ut@figura defaults to 0 on input line 59.
+<resources/floats/ilustracoes/desempenho.png, id=55, 1053.9375pt x 508.90125pt>
 File: resources/floats/ilustracoes/desempenho.png Graphic file (type png)
 <use resources/floats/ilustracoes/desempenho.png>
 Package pdftex.def Info: resources/floats/ilustracoes/desempenho.png  used on input line 62.
@@ -1338,7 +1318,7 @@ Package pdftex.def Info: resources/floats/ilustracoes/desempenho.png  used on in
 
 Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
- [11 <./resources/floats/ilustracoes/desempenho.png>]
+ [8 <./resources/floats/ilustracoes/desempenho.png>]
 \ut@seccntwidth=\dimen344
 
 ./content/revisao-literatura.tex:91: Undefined control sequence.
@@ -1355,9 +1335,9 @@ and I'll forget about whatever was undefined.
 
 Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
- [12]
+ [9]
 \ut@seccntwidth=\dimen345
-<resources/floats/ilustracoes/modelobiomecanico.png, id=364, 212.12584pt x 197.73875pt>
+<resources/floats/ilustracoes/modelobiomecanico.png, id=70, 212.12584pt x 197.73875pt>
 File: resources/floats/ilustracoes/modelobiomecanico.png Graphic file (type png)
 <use resources/floats/ilustracoes/modelobiomecanico.png>
 Package pdftex.def Info: resources/floats/ilustracoes/modelobiomecanico.png  used on input line 114.
@@ -1367,7 +1347,7 @@ Package pdftex.def Info: resources/floats/ilustracoes/modelobiomecanico.png  use
 
 Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
- [13]
+ [10]
 ./content/revisao-literatura.tex:120: Undefined control sequence.
 l.120 \paragraph
                 {Principais erros biomecânicos cometidos no arremesso com b...
@@ -1383,7 +1363,7 @@ and I'll forget about whatever was undefined.
 
 Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
- [14 <./resources/floats/ilustracoes/Modelobiomecanico.png>]
+ [11 <./resources/floats/ilustracoes/Modelobiomecanico.png>]
 \@i=\count527
 
 
@@ -1559,13 +1539,13 @@ Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
 
 Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
- [15]
-<resources/floats/ilustracoes/noah.png, id=380, 906.38625pt x 471.26062pt>
+ [12]
+<resources/floats/ilustracoes/noah.png, id=91, 906.38625pt x 471.26062pt>
 File: resources/floats/ilustracoes/noah.png Graphic file (type png)
 <use resources/floats/ilustracoes/noah.png>
 Package pdftex.def Info: resources/floats/ilustracoes/noah.png  used on input line 166.
 (pdftex.def)             Requested size: 341.43307pt x 177.52048pt.
-<resources/floats/ilustracoes/noahapp.png, id=381, 755.07094pt x 649.67719pt>
+<resources/floats/ilustracoes/noahapp.png, id=92, 755.07094pt x 649.67719pt>
 File: resources/floats/ilustracoes/noahapp.png Graphic file (type png)
 <use resources/floats/ilustracoes/noahapp.png>
 Package pdftex.def Info: resources/floats/ilustracoes/noahapp.png  used on input line 175.
@@ -1575,7 +1555,7 @@ Package pdftex.def Info: resources/floats/ilustracoes/noahapp.png  used on input
 
 Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
- [16 <./resources/floats/ilustracoes/noah.png>]
+ [13 <./resources/floats/ilustracoes/noah.png>]
 \@i=\count541
 
 
@@ -1708,7 +1688,7 @@ Overfull \hbox (15.49425pt too wide) in paragraph at lines 194--196
 
 Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
- [17 <./resources/floats/ilustracoes/noahapp.png>]
+ [14 <./resources/floats/ilustracoes/noahapp.png>]
 \@i=\count551
 
 
@@ -1734,7 +1714,7 @@ l.203 ...o que a entrada da rede neural (\ac{yolo}
                                                   ) esteja mais limpa e meno...
 Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
 
-<resources/floats/ilustracoes/contraste.png, id=394, 1226.33156pt x 457.71pt>
+<resources/floats/ilustracoes/contraste.png, id=108, 1226.33156pt x 457.71pt>
 File: resources/floats/ilustracoes/contraste.png Graphic file (type png)
 <use resources/floats/ilustracoes/contraste.png>
 Package pdftex.def Info: resources/floats/ilustracoes/contraste.png  used on input line 211.
@@ -1793,7 +1773,7 @@ Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
 
 Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
- [18 <./resources/floats/ilustracoes/contraste.png>]
+ [15 <./resources/floats/ilustracoes/contraste.png>]
 \@i=\count557
 
 
@@ -1935,7 +1915,7 @@ Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
 
 Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
- [19]
+ [16]
 \@i=\count561
 
 
@@ -1966,7 +1946,7 @@ Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
 
 Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
- [20]
+ [17]
 \@i=\count563
 
 
@@ -2142,7 +2122,7 @@ Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
 
 Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
- [21]
+ [18]
 \@i=\count577
 
 
@@ -2192,7 +2172,7 @@ l.296 Eles afirmam que ``\ac{yolo}
                                    é capaz de responder duas perguntas: qua...
 Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
 
-<resources/floats/ilustracoes/NBA.jpg, id=415, 1027.84pt x 578.16pt>
+<resources/floats/ilustracoes/NBA.jpg, id=134, 1027.84pt x 578.16pt>
 File: resources/floats/ilustracoes/NBA.jpg Graphic file (type jpg)
 <use resources/floats/ilustracoes/NBA.jpg>
 Package pdftex.def Info: resources/floats/ilustracoes/NBA.jpg  used on input line 301.
@@ -2443,8 +2423,8 @@ If that doesn't work, type  X <return>  to quit.
 
 Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
- [22 <./resources/floats/ilustracoes/NBA.jpg>]
-<resources/floats/ilustracoes/arquiteturayolo.png, id=421, 639.89063pt x 162.6075pt>
+ [19 <./resources/floats/ilustracoes/NBA.jpg>]
+<resources/floats/ilustracoes/arquiteturayolo.png, id=142, 639.89063pt x 162.6075pt>
 File: resources/floats/ilustracoes/arquiteturayolo.png Graphic file (type png)
 <use resources/floats/ilustracoes/arquiteturayolo.png>
 Package pdftex.def Info: resources/floats/ilustracoes/arquiteturayolo.png  used on input line 355.
@@ -2454,7 +2434,7 @@ Package pdftex.def Info: resources/floats/ilustracoes/arquiteturayolo.png  used 
 
 Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
- [23]
+ [20]
 \ut@seccntwidth=\dimen353
 \@i=\count585
 
@@ -2559,7 +2539,7 @@ Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
 
 Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
- [24 <./resources/floats/ilustracoes/arquiteturayolo.png>]
+ [21 <./resources/floats/ilustracoes/arquiteturayolo.png>]
 \@i=\count593
 
 
@@ -2633,12 +2613,12 @@ l.379 o \ac{opencv}
                     permite realizar desde operações básicas, como redime...
 Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
 
-<resources/floats/ilustracoes/opencv.png, id=433, 499.8675pt x 447.17062pt>
+<resources/floats/ilustracoes/opencv.png, id=158, 499.8675pt x 447.17062pt>
 File: resources/floats/ilustracoes/opencv.png Graphic file (type png)
 <use resources/floats/ilustracoes/opencv.png>
 Package pdftex.def Info: resources/floats/ilustracoes/opencv.png  used on input line 385.
 (pdftex.def)             Requested size: 273.14923pt x 244.3616pt.
-<resources/floats/ilustracoes/matplotlib.png, id=434, 469.755pt x 568.37344pt>
+<resources/floats/ilustracoes/matplotlib.png, id=159, 469.755pt x 568.37344pt>
 File: resources/floats/ilustracoes/matplotlib.png Graphic file (type png)
 <use resources/floats/ilustracoes/matplotlib.png>
 Package pdftex.def Info: resources/floats/ilustracoes/matplotlib.png  used on input line 394.
@@ -2648,7 +2628,7 @@ Package pdftex.def Info: resources/floats/ilustracoes/matplotlib.png  used on in
 
 Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
- [25 <./resources/floats/ilustracoes/opencv.png>]
+ [22 <./resources/floats/ilustracoes/opencv.png>]
 \ut@seccntwidth=\dimen355
 \@i=\count599
 
@@ -2729,8 +2709,8 @@ Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
 
 Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
- [26 <./resources/floats/ilustracoes/matplotlib.png>]
-<resources/floats/ilustracoes/FUTEBOL.jpg, id=448, 1278.7775pt x 591.20876pt>
+ [23 <./resources/floats/ilustracoes/matplotlib.png>]
+<resources/floats/ilustracoes/FUTEBOL.jpg, id=176, 1278.7775pt x 591.20876pt>
 File: resources/floats/ilustracoes/FUTEBOL.jpg Graphic file (type jpg)
 <use resources/floats/ilustracoes/FUTEBOL.jpg>
 Package pdftex.def Info: resources/floats/ilustracoes/FUTEBOL.jpg  used on input line 419.
@@ -2761,7 +2741,7 @@ l.427 ...{keypoints} corporais com base em \ac{cv}
                                                   ,
 Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
 
-<resources/floats/ilustracoes/KEYPOINTS.png, id=449, 147.55125pt x 112.16907pt>
+<resources/floats/ilustracoes/KEYPOINTS.png, id=177, 147.55125pt x 112.16907pt>
 File: resources/floats/ilustracoes/KEYPOINTS.png Graphic file (type png)
 <use resources/floats/ilustracoes/KEYPOINTS.png>
 Package pdftex.def Info: resources/floats/ilustracoes/KEYPOINTS.png  used on input line 435.
@@ -2772,7 +2752,7 @@ Package pdftex.def Info: resources/floats/ilustracoes/KEYPOINTS.png  used on inp
 
 Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
- [27 <./resources/floats/ilustracoes/FUTEBOL.jpg> <./resources/floats/ilustracoes/KEYPOINTS.png>]
+ [24 <./resources/floats/ilustracoes/FUTEBOL.jpg> <./resources/floats/ilustracoes/KEYPOINTS.png>]
 \@i=\count607
 
 
@@ -2798,7 +2778,7 @@ l.443 ... análise biomecânica baseada em \ac{cv}
                                                   .
 Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
 
-<resources/floats/ilustracoes/ESQUELETO.png, id=457, 292.09125pt x 135.50626pt>
+<resources/floats/ilustracoes/ESQUELETO.png, id=189, 292.09125pt x 135.50626pt>
 File: resources/floats/ilustracoes/ESQUELETO.png Graphic file (type png)
 <use resources/floats/ilustracoes/ESQUELETO.png>
 Package pdftex.def Info: resources/floats/ilustracoes/ESQUELETO.png  used on input line 452.
@@ -2861,12 +2841,12 @@ Overfull \hbox (0.90874pt too wide) in paragraph at lines 490--501
 
 Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
- [28 <./resources/floats/ilustracoes/ESQUELETO.png>]
+ [25 <./resources/floats/ilustracoes/ESQUELETO.png>]
 
 
 Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
- [29] (./content/procedimentos-metodologicos-tecnicos.tex
+ [26] (./content/procedimentos-metodologicos-tecnicos.tex
 \ut@seccntwidth=\dimen359
 \ut@seccntwidth=\dimen360
 
@@ -2874,14 +2854,14 @@ Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
 Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
- [30
+ [27
 
 
 ]
 \ut@seccntwidth=\dimen361
 \ut@seccntwidth=\dimen362
 \ut@seccntwidth=\dimen363
-<resources/floats/ilustracoes/cascata.png, id=475, 351.56343pt x 210.7875pt>
+<resources/floats/ilustracoes/cascata.png, id=212, 351.56343pt x 210.7875pt>
 File: resources/floats/ilustracoes/cascata.png Graphic file (type png)
 <use resources/floats/ilustracoes/cascata.png>
 Package pdftex.def Info: resources/floats/ilustracoes/cascata.png  used on input line 55.
@@ -2891,198 +2871,16 @@ Package pdftex.def Info: resources/floats/ilustracoes/cascata.png  used on input
 
 Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
- [31]
+ [28]
 \ut@seccntwidth=\dimen364
 
 
 
 Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
- [32 <./resources/floats/ilustracoes/cascata.png>]
+ [29 <./resources/floats/ilustracoes/cascata.png>]
 \ut@seccntwidth=\dimen365
-\@i=\count613
-
-
-./content/procedimentos-metodologicos-tecnicos.tex:80: Class unoesc-thesis Error: O acrônimo cnn não foi definido.
-
-See the unoesc-thesis class documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.80 ...inição do algoritmo baseado em \acp{cnn}
-                                                  .
-Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
-
-\@i=\count614
-
-./content/procedimentos-metodologicos-tecnicos.tex:80: Class unoesc-thesis Error: O acrônimo cnn não foi definido.
-
-See the unoesc-thesis class documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.80 ...inição do algoritmo baseado em \acp{cnn}
-                                                  .
-Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
-
-\@i=\count615
-
-./content/procedimentos-metodologicos-tecnicos.tex:83: Class unoesc-thesis Error: O acrônimo fps não foi definido.
-
-See the unoesc-thesis class documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.83 ...MP, que irá gravar em 1080p a 30 \ac{fps}
-                                                  , a câmera será posicion...
-Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
-
-\@i=\count616
-
-./content/procedimentos-metodologicos-tecnicos.tex:83: Class unoesc-thesis Error: O acrônimo fps não foi definido.
-
-See the unoesc-thesis class documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.83 ...MP, que irá gravar em 1080p a 30 \ac{fps}
-                                                  , a câmera será posicion...
-Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
-
-\@i=\count617
-
-./content/procedimentos-metodologicos-tecnicos.tex:95: Class unoesc-thesis Error: O acrônimo gpu não foi definido.
-
-See the unoesc-thesis class documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.95 ...deração que será utilizada uma \ac{gpu}
-                                                   GeForce GTX 1650 para o p...
-Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
-
-\@i=\count618
-
-./content/procedimentos-metodologicos-tecnicos.tex:95: Class unoesc-thesis Error: O acrônimo gpu não foi definido.
-
-See the unoesc-thesis class documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.95 ...deração que será utilizada uma \ac{gpu}
-                                                   GeForce GTX 1650 para o p...
-Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
-
-
-
-
-Overfull \vbox (0.55678pt too high) has occurred while \output is active []
-
- [33]
 \ut@seccntwidth=\dimen366
-\@i=\count619
-
-
-./content/procedimentos-metodologicos-tecnicos.tex:106: Class unoesc-thesis Error: O acrônimo cv não foi definido.
-
-See the unoesc-thesis class documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.106 ...damentais para treinar modelos de \ac{cv}
-                                                   supervisionados, como o Y...
-Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
-
-\@i=\count620
-
-./content/procedimentos-metodologicos-tecnicos.tex:106: Class unoesc-thesis Error: O acrônimo cv não foi definido.
-
-See the unoesc-thesis class documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.106 ...damentais para treinar modelos de \ac{cv}
-                                                   supervisionados, como o Y...
-Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
-
-\@i=\count621
-
-./content/procedimentos-metodologicos-tecnicos.tex:107: Class unoesc-thesis Error: O acrônimo yolo não foi definido.
-
-See the unoesc-thesis class documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.107 ...o o formato .txt utilizado pelo \ac{yolo}
-                                                  .
-Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
-
-\@i=\count622
-
-./content/procedimentos-metodologicos-tecnicos.tex:107: Class unoesc-thesis Error: O acrônimo yolo não foi definido.
-
-See the unoesc-thesis class documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.107 ...o o formato .txt utilizado pelo \ac{yolo}
-                                                  .
-Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
-
-\@i=\count623
-
-./content/procedimentos-metodologicos-tecnicos.tex:110: Class unoesc-thesis Error: O acrônimo gpu não foi definido.
-
-See the unoesc-thesis class documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.110 ...m processador Ryzen 3 3100 e uma \ac{gpu}
-                                                   NVIDIA GTX 1650.
-Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
-
-\@i=\count624
-
-./content/procedimentos-metodologicos-tecnicos.tex:110: Class unoesc-thesis Error: O acrônimo gpu não foi definido.
-
-See the unoesc-thesis class documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.110 ...m processador Ryzen 3 3100 e uma \ac{gpu}
-                                                   NVIDIA GTX 1650.
-Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
-
-\@i=\count625
-
-./content/procedimentos-metodologicos-tecnicos.tex:119: Class unoesc-thesis Error: O acrônimo opencv não foi definido.
-
-See the unoesc-thesis class documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.119 Serão utilizadas as bibliotecas \ac{opencv}
-                                                   e NumPy para manipulaçã...
-Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
-
-\@i=\count626
-
-./content/procedimentos-metodologicos-tecnicos.tex:119: Class unoesc-thesis Error: O acrônimo opencv não foi definido.
-
-See the unoesc-thesis class documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.119 Serão utilizadas as bibliotecas \ac{opencv}
-                                                   e NumPy para manipulaçã...
-Utilize os comandos \abreviatura ou \sigla para definir um acrônimo.
-
-
-
-
-Overfull \vbox (0.55678pt too high) has occurred while \output is active []
-
- [34]
 \ut@seccntwidth=\dimen367
 \ut@seccntwidth=\dimen368
 
@@ -3090,18 +2888,18 @@ Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
 Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
- [35]
+ [30]
 \ut@seccntwidth=\dimen369
 )
 
 
 Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
- [36] (./content/apresentacao-solucao.tex
+ [31] (./content/apresentacao-solucao.tex
 \ut@seccntwidth=\dimen370
 \ut@seccntwidth=\dimen371
 \ut@seccntwidth=\dimen372
-<resources/floats/ilustracoes/arquitetura.png, id=503, 492.33937pt x 176.15813pt>
+<resources/floats/ilustracoes/arquitetura.png, id=242, 492.33937pt x 176.15813pt>
 File: resources/floats/ilustracoes/arquitetura.png Graphic file (type png)
 <use resources/floats/ilustracoes/arquitetura.png>
 Package pdftex.def Info: resources/floats/ilustracoes/arquitetura.png  used on input line 52.
@@ -3111,12 +2909,12 @@ Package pdftex.def Info: resources/floats/ilustracoes/arquitetura.png  used on i
 
 Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
- [37
+ [32
 
 
 ]
 \ut@seccntwidth=\dimen373
-<resources/floats/ilustracoes/casouso.png, id=510, 523.20468pt x 529.98pt>
+<resources/floats/ilustracoes/casouso.png, id=254, 523.20468pt x 529.98pt>
 File: resources/floats/ilustracoes/casouso.png Graphic file (type png)
 <use resources/floats/ilustracoes/casouso.png>
 Package pdftex.def Info: resources/floats/ilustracoes/casouso.png  used on input line 84.
@@ -3126,21 +2924,21 @@ Package pdftex.def Info: resources/floats/ilustracoes/casouso.png  used on input
 
 Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
- [38 <./resources/floats/ilustracoes/arquitetura.png>]
+ [33 <./resources/floats/ilustracoes/arquitetura.png>]
 
 
 Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
- [39 <./resources/floats/ilustracoes/casouso.png>]
+ [34 <./resources/floats/ilustracoes/casouso.png>]
 \ut@seccntwidth=\dimen374
 \ut@seccntwidth=\dimen375
-<resources/floats/ilustracoes/WIREFRAME1.png, id=523, 770.12718pt x 471.26062pt>
+<resources/floats/ilustracoes/WIREFRAME1.png, id=270, 770.12718pt x 471.26062pt>
 File: resources/floats/ilustracoes/WIREFRAME1.png Graphic file (type png)
 <use resources/floats/ilustracoes/WIREFRAME1.png>
 Package pdftex.def Info: resources/floats/ilustracoes/WIREFRAME1.png  used on input line 113.
 (pdftex.def)             Requested size: 314.11954pt x 192.21138pt.
 \ut@seccntwidth=\dimen376
-<resources/floats/ilustracoes/WIREFRAME2.png, id=524, 770.12718pt x 470.50781pt>
+<resources/floats/ilustracoes/WIREFRAME2.png, id=271, 770.12718pt x 470.50781pt>
 File: resources/floats/ilustracoes/WIREFRAME2.png Graphic file (type png)
 <use resources/floats/ilustracoes/WIREFRAME2.png>
 Package pdftex.def Info: resources/floats/ilustracoes/WIREFRAME2.png  used on input line 127.
@@ -3150,9 +2948,9 @@ Package pdftex.def Info: resources/floats/ilustracoes/WIREFRAME2.png  used on in
 
 Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
- [40 <./resources/floats/ilustracoes/WIREFRAME1.png>]
+ [35 <./resources/floats/ilustracoes/WIREFRAME1.png>]
 \ut@seccntwidth=\dimen377
-<resources/floats/ilustracoes/WIREFRAME3.png, id=531, 769.37437pt x 475.02469pt>
+<resources/floats/ilustracoes/WIREFRAME3.png, id=282, 769.37437pt x 475.02469pt>
 File: resources/floats/ilustracoes/WIREFRAME3.png Graphic file (type png)
 <use resources/floats/ilustracoes/WIREFRAME3.png>
 Package pdftex.def Info: resources/floats/ilustracoes/WIREFRAME3.png  used on input line 140.
@@ -3162,12 +2960,12 @@ Package pdftex.def Info: resources/floats/ilustracoes/WIREFRAME3.png  used on in
 
 Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
- [41 <./resources/floats/ilustracoes/WIREFRAME2.png> <./resources/floats/ilustracoes/WIREFRAME3.png>]
+ [36 <./resources/floats/ilustracoes/WIREFRAME2.png> <./resources/floats/ilustracoes/WIREFRAME3.png>]
 
 
 Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
- [42] (./content/referencias.tex
+ [37] (./content/referencias.tex
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 14.
  (c:/texlive/2025/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
@@ -3176,7 +2974,7 @@ File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 
 Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
- [43
+ [38
 
 
 ]
@@ -3184,53 +2982,72 @@ Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
 Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
- [44]
+ [39]
 
 
 Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
- [45]
+ [40]
 
 
 Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
- [46]) (./main.apendice.toc)
-\tf@apendice.toc=\write14
-\openout14 = `main.apendice.toc'.
+ [41])
+No file main.\ext@ut@apendice .
+\tf@apendice.toc=\write12
+\openout12 = `main.apendice.toc'.
 
- (./main.anexo.toc)
-\tf@anexo.toc=\write15
-\openout15 = `main.anexo.toc'.
+No file main.\ext@ut@anexo .
+\tf@anexo.toc=\write13
+\openout13 = `main.anexo.toc'.
 
 
 
 
 Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
- [47] (./main.aux)
+ [42] (./main.aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2020/03/25>
  ***********
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 33B08F541F34EC902ECD4733777C5A36;10870.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `main.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  E7793D1944C2A476AB98C4A0A3ED69F1;10366.
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                main
+(biblatex)                and rerun LaTeX afterwards.
+
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 35839 strings out of 467799
- 686765 string characters out of 5436040
- 1606739 words of memory out of 5000000
- 63749 multiletter control sequences out of 15000+600000
+ 35732 strings out of 467799
+ 684825 string characters out of 5436040
+ 1605278 words of memory out of 5000000
+ 63677 multiletter control sequences out of 15000+600000
  656826 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  91i,17n,120p,1267b,2465s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmbx12.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmbxi10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr12.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmri12.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmtt12.pfb>
-Output written on main.pdf (48 pages, 3879203 bytes).
+Output written on main.pdf (43 pages, 3864682 bytes).
 PDF statistics:
- 690 PDF objects out of 1000 (max. 8388607)
- 588 compressed objects within 6 object streams
- 144 named destinations out of 1000 (max. 500000)
- 503 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 444 PDF objects out of 1000 (max. 8388607)
+ 349 compressed objects within 4 object streams
+ 137 named destinations out of 1000 (max. 500000)
+ 103 words of extra memory for PDF output out of 10000 (max. 10000000)
 
