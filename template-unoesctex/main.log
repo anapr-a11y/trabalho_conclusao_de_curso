@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.8.30)  14 SEP 2025 20:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.8.30)  15 SEP 2025 12:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1085,10 +1085,8 @@ File: csquotes.cfg
 LaTeX Font Info:    Trying to load font information for T1+lmr on input line 28.
  (c:/texlive/2025/texmf-dist/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-) (./main.aux
-Package babel Info: 'brazilian' activates 'portuges' shorthands.
-(babel)             Reported on input line 26.
 )
+No file main.aux.
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
@@ -1109,7 +1107,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 28.
 LaTeX Font Info:    ... okay on input line 28.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 28.
 LaTeX Font Info:    ... okay on input line 28.
- (c:/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+(c:/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 \scratchcounter=\count520
 \scratchdimen=\dimen333
 \scratchbox=\box73
@@ -1127,6 +1125,8 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (c:/texlive/2025/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
+Package babel Info: 'brazilian' activates 'portuges' shorthands.
+(babel)             Reported on input line 28.
 Package biblatex Info: Trying to load language 'brazilian' -> 'brazilian-abnt'...
 Package biblatex Info: ... file 'brazilian-abnt.lbx' found.
  (c:/texlive/2025/texmf-dist/tex/latex/biblatex-abnt/brazilian-abnt.lbx
@@ -1157,64 +1157,47 @@ Package biblatex Info: ... file 'main.bbl' found.
 Package biblatex Info: Reference section=0 on input line 28.
 Package biblatex Info: Reference segment=0 on input line 28.
 Package hyperref Info: Link coloring OFF on input line 28.
- (./main.out) (./main.out)
 \@outlinefile=\write5
 \openout5 = `main.out'.
 
 
 
-[0{c:/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}] (./main.coautor.toc)
+[0{c:/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}]
+No file main.\ext@ut@coautor .
 \tf@coautor.toc=\write6
 \openout6 = `main.coautor.toc'.
 
 \@i=\count526
- (./main.ilustracao.lst.toc)
+No file main.\ext@ut@float@ilustracao .
 \tf@ilustracao.lst.toc=\write7
 \openout7 = `main.ilustracao.lst.toc'.
 
- (./main.quadro.lst.toc)
+No file main.\ext@ut@float@quadro .
 \tf@quadro.lst.toc=\write8
 \openout8 = `main.quadro.lst.toc'.
 
- (./main.tabela.lst.toc
+No file main.\ext@ut@float@tabela .
+\tf@tabela.lst.toc=\write9
+\openout9 = `main.tabela.lst.toc'.
+
+No file main.\ext@ut@acronym@acronimo .
+\tf@acronimo.lst.toc=\write10
+\openout10 = `main.acronimo.lst.toc'.
+
+
 
 [1
 
 ]
-No file main.\ext@ut@tabela .
-\tf@tabela.toc=\write9
-\openout9 = `main.tabela.toc'.
+No file main.\ext@ut@sumario .
+\tf@sumario.toc=\write11
+\openout11 = `main.sumario.toc'.
 
 
 
 [2
 
-
-])
-\tf@tabela.lst.toc=\write10
-\openout10 = `main.tabela.lst.toc'.
-
- (./main.acronimo.lst.toc)
-\tf@acronimo.lst.toc=\write11
-\openout11 = `main.acronimo.lst.toc'.
-
- (./main.sumario.toc
-Overfull \hbox (11.10204pt too wide) in paragraph at lines 10--11
-[][]\T1/lmr/bx/n/12 2.1.3 Deco AI Sa-les As-sis-tant: Uti-li-zando LLMs para ex-pe-ri-ên-cias de e-commerce
- []
-
-
-
-[3
-
-
-])
-\tf@sumario.toc=\write12
-\openout12 = `main.sumario.toc'.
-
-
-
-[4]
+]
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: End \AtBeginDocument code.
@@ -1244,7 +1227,7 @@ and I'll forget about whatever was undefined.
 
 Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
- [5
+ [3
 
 
 
@@ -1293,7 +1276,7 @@ and I'll forget about whatever was undefined.
 
 Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
- [6]
+ [4]
 \ut@seccntwidth=\dimen338
 \ut@seccntwidth=\dimen339
 LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 74.
@@ -1304,7 +1287,7 @@ File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 
 Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
- [7{c:/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}] (./content/revisao-literatura.tex
+ [5{c:/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}] (./content/revisao-literatura.tex
 \ut@seccntwidth=\dimen340
 \ut@seccntwidth=\dimen341
 
@@ -1327,7 +1310,7 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-Package hyperref Info: bookmark level for unknown ut@ilustracao defaults to 0 on input line 21.
+Package hyperref Info: bookmark level for unknown ut@figura defaults to 0 on input line 21.
 
 LaTeX Warning: File `template-unoesctex/resources/floats/ilustracoes/fine-tuning.png' not found on input line 24.
 
@@ -1351,7 +1334,7 @@ File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 
 Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
- [8
+ [6
 
 
 ]
@@ -1377,7 +1360,7 @@ If that doesn't work, type  X <return>  to quit.
 
 Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
- [9]
+ [7]
 \ut@seccntwidth=\dimen344
 
 Overfull \hbox (12.60204pt too wide) in paragraph at lines 52--52
@@ -1431,7 +1414,7 @@ and I'll forget about whatever was undefined.
 
 Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
- [10]
+ [8]
 Package hyperref Info: bookmark level for unknown ut@tabela defaults to 0 on input line 83.
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 97.
  (c:/texlive/2025/texmf-dist/tex/latex/lm/ot1lmr.fd
@@ -1490,12 +1473,12 @@ Overfull \hbox (17.2236pt too wide) in paragraph at lines 112--123
 
 Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
- [11]
+ [9]
 
 
 Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
- [12] (./content/procedimentos-metodologicos-tecnicos.tex
+ [10] (./content/procedimentos-metodologicos-tecnicos.tex
 \ut@seccntwidth=\dimen345
 \ut@seccntwidth=\dimen346
 
@@ -1503,14 +1486,14 @@ Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
 Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
- [13
+ [11
 
 
 ]
 \ut@seccntwidth=\dimen347
 \ut@seccntwidth=\dimen348
 \ut@seccntwidth=\dimen349
-<resources/floats/ilustracoes/cascata.png, id=247, 351.56343pt x 210.7875pt>
+<resources/floats/ilustracoes/cascata.png, id=86, 351.56343pt x 210.7875pt>
 File: resources/floats/ilustracoes/cascata.png Graphic file (type png)
 <use resources/floats/ilustracoes/cascata.png>
 Package pdftex.def Info: resources/floats/ilustracoes/cascata.png  used on input line 55.
@@ -1520,14 +1503,14 @@ Package pdftex.def Info: resources/floats/ilustracoes/cascata.png  used on input
 
 Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
- [14]
+ [12]
 \ut@seccntwidth=\dimen350
 
 
 
 Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
- [15 <./resources/floats/ilustracoes/cascata.png>]
+ [13 <./resources/floats/ilustracoes/cascata.png>]
 \ut@seccntwidth=\dimen351
 \ut@seccntwidth=\dimen352
 \ut@seccntwidth=\dimen353
@@ -1537,18 +1520,18 @@ Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
 Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
- [16]
+ [14]
 \ut@seccntwidth=\dimen355
 )
 
 
 Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
- [17] (./content/apresentacao-solucao.tex
+ [15] (./content/apresentacao-solucao.tex
 \ut@seccntwidth=\dimen356
 \ut@seccntwidth=\dimen357
 \ut@seccntwidth=\dimen358
-<resources/floats/ilustracoes/arquitetura.png, id=268, 492.33937pt x 176.15813pt>
+<resources/floats/ilustracoes/arquitetura.png, id=117, 492.33937pt x 176.15813pt>
 File: resources/floats/ilustracoes/arquitetura.png Graphic file (type png)
 <use resources/floats/ilustracoes/arquitetura.png>
 Package pdftex.def Info: resources/floats/ilustracoes/arquitetura.png  used on input line 52.
@@ -1558,12 +1541,12 @@ Package pdftex.def Info: resources/floats/ilustracoes/arquitetura.png  used on i
 
 Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
- [18
+ [16
 
 
 ]
 \ut@seccntwidth=\dimen359
-<resources/floats/ilustracoes/casouso.png, id=279, 523.20468pt x 529.98pt>
+<resources/floats/ilustracoes/casouso.png, id=129, 523.20468pt x 529.98pt>
 File: resources/floats/ilustracoes/casouso.png Graphic file (type png)
 <use resources/floats/ilustracoes/casouso.png>
 Package pdftex.def Info: resources/floats/ilustracoes/casouso.png  used on input line 84.
@@ -1573,21 +1556,21 @@ Package pdftex.def Info: resources/floats/ilustracoes/casouso.png  used on input
 
 Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
- [19 <./resources/floats/ilustracoes/arquitetura.png>]
+ [17 <./resources/floats/ilustracoes/arquitetura.png>]
 
 
 Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
- [20 <./resources/floats/ilustracoes/casouso.png>]
+ [18 <./resources/floats/ilustracoes/casouso.png>]
 \ut@seccntwidth=\dimen360
 \ut@seccntwidth=\dimen361
-<resources/floats/ilustracoes/WIREFRAME1.png, id=294, 770.12718pt x 471.26062pt>
+<resources/floats/ilustracoes/WIREFRAME1.png, id=147, 770.12718pt x 471.26062pt>
 File: resources/floats/ilustracoes/WIREFRAME1.png Graphic file (type png)
 <use resources/floats/ilustracoes/WIREFRAME1.png>
 Package pdftex.def Info: resources/floats/ilustracoes/WIREFRAME1.png  used on input line 113.
 (pdftex.def)             Requested size: 314.11954pt x 192.21138pt.
 \ut@seccntwidth=\dimen362
-<resources/floats/ilustracoes/WIREFRAME2.png, id=295, 770.12718pt x 470.50781pt>
+<resources/floats/ilustracoes/WIREFRAME2.png, id=148, 770.12718pt x 470.50781pt>
 File: resources/floats/ilustracoes/WIREFRAME2.png Graphic file (type png)
 <use resources/floats/ilustracoes/WIREFRAME2.png>
 Package pdftex.def Info: resources/floats/ilustracoes/WIREFRAME2.png  used on input line 127.
@@ -1597,9 +1580,9 @@ Package pdftex.def Info: resources/floats/ilustracoes/WIREFRAME2.png  used on in
 
 Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
- [21 <./resources/floats/ilustracoes/WIREFRAME1.png>]
+ [19 <./resources/floats/ilustracoes/WIREFRAME1.png>]
 \ut@seccntwidth=\dimen363
-<resources/floats/ilustracoes/WIREFRAME3.png, id=303, 769.37437pt x 475.02469pt>
+<resources/floats/ilustracoes/WIREFRAME3.png, id=159, 769.37437pt x 475.02469pt>
 File: resources/floats/ilustracoes/WIREFRAME3.png Graphic file (type png)
 <use resources/floats/ilustracoes/WIREFRAME3.png>
 Package pdftex.def Info: resources/floats/ilustracoes/WIREFRAME3.png  used on input line 140.
@@ -1609,17 +1592,17 @@ Package pdftex.def Info: resources/floats/ilustracoes/WIREFRAME3.png  used on in
 
 Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
- [22 <./resources/floats/ilustracoes/WIREFRAME2.png> <./resources/floats/ilustracoes/WIREFRAME3.png>]
+ [20 <./resources/floats/ilustracoes/WIREFRAME2.png> <./resources/floats/ilustracoes/WIREFRAME3.png>]
 
 
 Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
- [23] (./content/referencias.tex
+ [21] (./content/referencias.tex
 
 
 Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
- [24
+ [22
 
 
 ]
@@ -1627,34 +1610,38 @@ Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
 Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
- [25]
+ [23]
 
 
 Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
- [26]
+ [24]
 
 
 Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
- [27]) (./main.apendice.toc)
-\tf@apendice.toc=\write13
-\openout13 = `main.apendice.toc'.
+ [25])
+No file main.\ext@ut@apendice .
+\tf@apendice.toc=\write12
+\openout12 = `main.apendice.toc'.
 
- (./main.anexo.toc)
-\tf@anexo.toc=\write14
-\openout14 = `main.anexo.toc'.
+No file main.\ext@ut@anexo .
+\tf@anexo.toc=\write13
+\openout13 = `main.anexo.toc'.
 
 
 
 
 Overfull \vbox (0.55678pt too high) has occurred while \output is active []
 
- [28] (./main.aux)
+ [26] (./main.aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2020/03/25>
  ***********
+
+
+LaTeX Warning: There were undefined references.
 
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
@@ -1665,25 +1652,30 @@ Package rerunfilecheck Warning: File `main.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: AB5E3DD774EFD2E1F6AEF069C59312AC;7595
-(rerunfilecheck)             After:  EB535D3A7DCB5711C42DAA5EBBB0102A;7901.
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  AB5E3DD774EFD2E1F6AEF069C59312AC;7595.
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                main
+(biblatex)                and rerun LaTeX afterwards.
+
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 35728 strings out of 467799
- 686643 string characters out of 5436040
- 1595304 words of memory out of 5000000
- 63700 multiletter control sequences out of 15000+600000
+ 35652 strings out of 467799
+ 685266 string characters out of 5436040
+ 1593278 words of memory out of 5000000
+ 63650 multiletter control sequences out of 15000+600000
  652555 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  91i,17n,120p,1267b,2465s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmbx12.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr12.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmri12.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmtt12.pfb>
-Output written on main.pdf (29 pages, 301057 bytes).
+Output written on main.pdf (27 pages, 294729 bytes).
 PDF statistics:
- 446 PDF objects out of 1000 (max. 8388607)
- 388 compressed objects within 4 object streams
- 88 named destinations out of 1000 (max. 500000)
- 307 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 303 PDF objects out of 1000 (max. 8388607)
+ 248 compressed objects within 3 object streams
+ 85 named destinations out of 1000 (max. 500000)
+ 43 words of extra memory for PDF output out of 10000 (max. 10000000)
 

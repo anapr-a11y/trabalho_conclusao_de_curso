@@ -1,4 +1,0 @@
-\contentsline {ut@tabela}{Tabela\nobreakspace 1\nobreakspace \textendash \nobreakspace Trabalhos Relacionados}{11}{ut@tabela.1}%
-\contentsline {ut@tabela}{Tabela\nobreakspace 2\nobreakspace \textendash \nobreakspace Resultados das pesquisas por termos no título de artigos}{12}{ut@tabela.2}%
-\contentsline {ut@tabela}{Tabela\nobreakspace 3\nobreakspace \textendash \nobreakspace Requisitos funcionais do sistema computacional}{18}{ut@tabela.3}%
-\contentsline {ut@tabela}{Tabela\nobreakspace 4\nobreakspace \textendash \nobreakspace Requisitos não funcionais do sistema computacional}{18}{ut@tabela.4}%

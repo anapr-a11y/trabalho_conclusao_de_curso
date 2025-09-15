@@ -1,30 +1,30 @@
-\contentsline {ut@capitulo}{1\nobreakspace Introdução}{5}{ut@capitulo.1}%
-\contentsline {ut@secao}{1.1\nobreakspace Problema e justificativa}{6}{ut@secao.1.1}%
-\contentsline {ut@secao}{1.2\nobreakspace Objetivos}{7}{ut@secao.1.2}%
-\contentsline {ut@subsecao}{1.2.1\nobreakspace Objetivo geral}{7}{ut@subsecao.1.2.1}%
-\contentsline {ut@subsecao}{1.2.2\nobreakspace Objetivos específicos}{7}{ut@subsecao.1.2.2}%
-\contentsline {ut@capitulo}{2\nobreakspace Revisão da literatura}{8}{ut@capitulo.2}%
-\contentsline {ut@secao}{2.1\nobreakspace SOLUÇÕES SIMILARES}{8}{ut@secao.2.1}%
-\contentsline {ut@subsecao}{2.1.1\nobreakspace Fine-tuning BERT for Semantic Textual Similarity with Transformers in Python (Hamdine, 2023)}{8}{ut@subsecao.2.1.1}%
-\contentsline {ut@subsecao}{2.1.2\nobreakspace IMPLEMENTAÇÃO DE BUSCA SEMÂNTICA EM E-COMMERCES COMO APOIO A PESQUISAS INTELIGENTES (Borges, 2024)}{9}{ut@subsecao.2.1.2}%
-\contentsline {ut@subsecao}{2.1.3\nobreakspace Deco AI Sales Assistant: Utilizando LLMs para experiências de e-commerce personalizadas e sob demanda (Filho, 2024)}{10}{ut@subsecao.2.1.3}%
-\contentsline {ut@capitulo}{3\nobreakspace Procedimentos metodológicos e técnicos}{13}{ut@capitulo.3}%
-\contentsline {ut@secao}{3.1\nobreakspace Caracterização da metodologia de pesquisa}{13}{ut@secao.3.1}%
-\contentsline {ut@secao}{3.2\nobreakspace Questões de Pesquisa}{14}{ut@secao.3.2}%
-\contentsline {ut@secao}{3.3\nobreakspace Aplicação da metodologia}{14}{ut@secao.3.3}%
-\contentsline {ut@subsecao}{3.3.1\nobreakspace Desenvolvimento da solução proposta na prática}{14}{ut@subsecao.3.3.1}%
-\contentsline {ut@subsubsecao}{3.3.1.1\nobreakspace Definição de Requisitos}{15}{ut@subsubsecao.3.3.1.1}%
-\contentsline {ut@subsubsecao}{3.3.1.2\nobreakspace Projeto de Sistema e Software}{16}{ut@subsubsecao.3.3.1.2}%
-\contentsline {ut@subsubsecao}{3.3.1.3\nobreakspace Fase de Implementação}{16}{ut@subsubsecao.3.3.1.3}%
-\contentsline {ut@subsubsecao}{3.3.1.4\nobreakspace Fase de integração e testes}{16}{ut@subsubsecao.3.3.1.4}%
-\contentsline {ut@subsubsecao}{3.3.1.5\nobreakspace Operação e manutenção}{16}{ut@subsubsecao.3.3.1.5}%
-\contentsline {ut@subsecao}{3.3.2\nobreakspace População e Amostra}{17}{ut@subsecao.3.3.2}%
-\contentsline {ut@capitulo}{4\nobreakspace Apresentação da solução}{18}{ut@capitulo.4}%
-\contentsline {ut@secao}{4.1\nobreakspace Requisitos do Sistema}{18}{ut@secao.4.1}%
-\contentsline {ut@secao}{4.2\nobreakspace Fluxograma da Arquitetura do Projeto}{18}{ut@secao.4.2}%
-\contentsline {ut@secao}{4.3\nobreakspace Diagrama de Caso de Uso}{19}{ut@secao.4.3}%
-\contentsline {ut@secao}{4.4\nobreakspace Wireframes}{21}{ut@secao.4.4}%
-\contentsline {ut@subsecao}{4.4.1\nobreakspace Wireframe 1}{21}{ut@subsecao.4.4.1}%
-\contentsline {ut@subsecao}{4.4.2\nobreakspace Wireframe 2}{21}{ut@subsecao.4.4.2}%
-\contentsline {ut@subsecao}{4.4.3\nobreakspace Wireframe 3}{22}{ut@subsecao.4.4.3}%
-\contentsline {ut@capitulo}{Referências}{24}{cap:referencias}%
+\contentsline {ut@capitulo}{1\nobreakspace Introdução}{3}{ut@capitulo.1}%
+\contentsline {ut@secao}{1.1\nobreakspace Problema e justificativa}{4}{ut@secao.1.1}%
+\contentsline {ut@secao}{1.2\nobreakspace Objetivos}{5}{ut@secao.1.2}%
+\contentsline {ut@subsecao}{1.2.1\nobreakspace Objetivo geral}{5}{ut@subsecao.1.2.1}%
+\contentsline {ut@subsecao}{1.2.2\nobreakspace Objetivos específicos}{5}{ut@subsecao.1.2.2}%
+\contentsline {ut@capitulo}{2\nobreakspace Revisão da literatura}{6}{ut@capitulo.2}%
+\contentsline {ut@secao}{2.1\nobreakspace SOLUÇÕES SIMILARES}{6}{ut@secao.2.1}%
+\contentsline {ut@subsecao}{2.1.1\nobreakspace Fine-tuning BERT for Semantic Textual Similarity with Transformers in Python (Hamdine, 2023)}{6}{ut@subsecao.2.1.1}%
+\contentsline {ut@subsecao}{2.1.2\nobreakspace IMPLEMENTAÇÃO DE BUSCA SEMÂNTICA EM E-COMMERCES COMO APOIO A PESQUISAS INTELIGENTES (Borges, 2024)}{7}{ut@subsecao.2.1.2}%
+\contentsline {ut@subsecao}{2.1.3\nobreakspace Deco AI Sales Assistant: Utilizando LLMs para experiências de e-commerce personalizadas e sob demanda (Filho, 2024)}{8}{ut@subsecao.2.1.3}%
+\contentsline {ut@capitulo}{3\nobreakspace Procedimentos metodológicos e técnicos}{11}{ut@capitulo.3}%
+\contentsline {ut@secao}{3.1\nobreakspace Caracterização da metodologia de pesquisa}{11}{ut@secao.3.1}%
+\contentsline {ut@secao}{3.2\nobreakspace Questões de Pesquisa}{12}{ut@secao.3.2}%
+\contentsline {ut@secao}{3.3\nobreakspace Aplicação da metodologia}{12}{ut@secao.3.3}%
+\contentsline {ut@subsecao}{3.3.1\nobreakspace Desenvolvimento da solução proposta na prática}{12}{ut@subsecao.3.3.1}%
+\contentsline {ut@subsubsecao}{3.3.1.1\nobreakspace Definição de Requisitos}{13}{ut@subsubsecao.3.3.1.1}%
+\contentsline {ut@subsubsecao}{3.3.1.2\nobreakspace Projeto de Sistema e Software}{14}{ut@subsubsecao.3.3.1.2}%
+\contentsline {ut@subsubsecao}{3.3.1.3\nobreakspace Fase de Implementação}{14}{ut@subsubsecao.3.3.1.3}%
+\contentsline {ut@subsubsecao}{3.3.1.4\nobreakspace Fase de integração e testes}{14}{ut@subsubsecao.3.3.1.4}%
+\contentsline {ut@subsubsecao}{3.3.1.5\nobreakspace Operação e manutenção}{14}{ut@subsubsecao.3.3.1.5}%
+\contentsline {ut@subsecao}{3.3.2\nobreakspace População e Amostra}{15}{ut@subsecao.3.3.2}%
+\contentsline {ut@capitulo}{4\nobreakspace Apresentação da solução}{16}{ut@capitulo.4}%
+\contentsline {ut@secao}{4.1\nobreakspace Requisitos do Sistema}{16}{ut@secao.4.1}%
+\contentsline {ut@secao}{4.2\nobreakspace Fluxograma da Arquitetura do Projeto}{16}{ut@secao.4.2}%
+\contentsline {ut@secao}{4.3\nobreakspace Diagrama de Caso de Uso}{17}{ut@secao.4.3}%
+\contentsline {ut@secao}{4.4\nobreakspace Wireframes}{19}{ut@secao.4.4}%
+\contentsline {ut@subsecao}{4.4.1\nobreakspace Wireframe 1}{19}{ut@subsecao.4.4.1}%
+\contentsline {ut@subsecao}{4.4.2\nobreakspace Wireframe 2}{19}{ut@subsecao.4.4.2}%
+\contentsline {ut@subsecao}{4.4.3\nobreakspace Wireframe 3}{20}{ut@subsecao.4.4.3}%
+\contentsline {ut@capitulo}{Referências}{22}{cap:referencias}%
